@@ -1,0 +1,2912 @@
+{
+    "verbs": [
+      {
+        "question": "Она _____ (работать) в офисе.",
+        "answer": "работает"
+      },
+      {
+        "question": "Я _____ (читать) книгу.",
+        "answer": "читаю"
+      },
+      {
+        "question": "Ты _____ (жить) в Москве?",
+        "answer": "живёшь"
+      },
+      {
+        "question": "Мы _____ (говорить) по-русски.",
+        "answer": "говорим"
+      },
+      {
+        "question": "Он _____ (писать) письмо.",
+        "answer": "пишет"
+      },
+      {
+        "question": "Вы _____ (слушать) музыку?",
+        "answer": "слушаете"
+      },
+      {
+        "question": "Они _____ (гулять) в парке.",
+        "answer": "гуляют"
+      },
+      {
+        "question": "Я _____ (знать) ответ.",
+        "answer": "знаю"
+      },
+      {
+        "question": "Она _____ (помогать) маме.",
+        "answer": "помогает"
+      },
+      {
+        "question": "Мы _____ (любить) спорт.",
+        "answer": "любим"
+      },
+      {
+        "question": "Ты _____ (видеть) это?",
+        "answer": "видишь"
+      },
+      {
+        "question": "Он _____ (стоять) у окна.",
+        "answer": "стоит"
+      },
+      {
+        "question": "Вы _____ (сидеть) на стуле.",
+        "answer": "сидите"
+      },
+      {
+        "question": "Я _____ (идти) домой.",
+        "answer": "иду"
+      },
+      {
+        "question": "Они _____ (хотеть) пить.",
+        "answer": "хотят"
+      },
+      {
+        "question": "Ты _____ (работать) сегодня?",
+        "answer": "работаешь"
+      },
+      {
+        "question": "Мы _____ (читать) газету.",
+        "answer": "читаем"
+      },
+      {
+        "question": "Она _____ (жить) в Петербурге.",
+        "answer": "живет"
+      },
+      {
+        "question": "Я _____ (помнить) тебя.",
+        "answer": "помню"
+      },
+      {
+        "question": "Ты _____ (играть) в футбол?",
+        "answer": "играешь"
+      },
+      {
+        "question": "Он _____ (учить) русский язык.",
+        "answer": "учит"
+      },
+      {
+        "question": "Вы _____ (звонить) друзьям?",
+        "answer": "звоните"
+      },
+      {
+        "question": "Она _____ (готовить) ужин.",
+        "answer": "готовит"
+      },
+      {
+        "question": "Я _____ (думать) о тебе.",
+        "answer": "думаю"
+      },
+      {
+        "question": "Они _____ (пить) чай.",
+        "answer": "пьют"
+      },
+      {
+        "question": "Ты _____ (петь) песню?",
+        "answer": "поёшь"
+      },
+      {
+        "question": "Мы _____ (ждать) автобус.",
+        "answer": "ждём"
+      },
+      {
+        "question": "Она _____ (танцевать) на вечеринке.",
+        "answer": "танцует"
+      },
+      {
+        "question": "Я _____ (рисовать) картину.",
+        "answer": "рисую"
+      },
+      {
+        "question": "Ты _____ (смотреть) фильм?",
+        "answer": "смотришь"
+      },
+      {
+        "question": "Он _____ (покупать) хлеб.",
+        "answer": "покупает"
+      },
+      {
+        "question": "Вы _____ (помнить) меня?",
+        "answer": "помните"
+      },
+      {
+        "question": "Мы _____ (слушать) учителя.",
+        "answer": "слушаем"
+      },
+      {
+        "question": "Они _____ (есть) суп.",
+        "answer": "едят"
+      },
+      {
+        "question": "Я _____ (бежать) на работу.",
+        "answer": "бегу"
+      },
+      {
+        "question": "Ты _____ (лежать) на диване?",
+        "answer": "лежишь"
+      },
+      {
+        "question": "Она _____ (ехать) в школу.",
+        "answer": "едет"
+      },
+      {
+        "question": "Мы _____ (петь) песню.",
+        "answer": "поём"
+      },
+      {
+        "question": "Они _____ (учиться) в университете.",
+        "answer": "учатся"
+      },
+      {
+        "question": "Вы _____ (играть) на гитаре?",
+        "answer": "играете"
+      },
+      {
+        "question": "Я _____ (ходить) в кино.",
+        "answer": "хожу"
+      },
+      {
+        "question": "Ты _____ (брать) книгу?",
+        "answer": "берёшь"
+      },
+      {
+        "question": "Он _____ (давать) совет.",
+        "answer": "даёт"
+      },
+      {
+        "question": "Мы _____ (искать) ключи.",
+        "answer": "ищем"
+      },
+      {
+        "question": "Они _____ (открывать) дверь.",
+        "answer": "открывают"
+      },
+      {
+        "question": "Ты _____ (закрывать) окно?",
+        "answer": "закрываешь"
+      },
+      {
+        "question": "Она _____ (спрашивать) учителя.",
+        "answer": "спрашивает"
+      },
+      {
+        "question": "Вы _____ (отвечать) на вопрос?",
+        "answer": "отвечаете"
+      },
+      {
+        "question": "Я _____ (понимать) тебя.",
+        "answer": "понимаю"
+      },
+      {
+        "question": "Ты _____ (бояться) собак?",
+        "answer": "боишься"
+      },
+      {
+        "question": "Ты _____ (жить) в Москве?",
+        "answer": "живёшь"
+      },
+      {
+        "question": "Мы _____ (говорить) по-русски.",
+        "answer": "говорим"
+      },
+      {
+        "question": "Он _____ (писать) письмо.",
+        "answer": "пишет"
+      },
+      {
+        "question": "Вы _____ (слушать) музыку?",
+        "answer": "слушаете"
+      },
+      {
+        "question": "Они _____ (гулять) в парке.",
+        "answer": "гуляют"
+      },
+      {
+        "question": "Я _____ (знать) ответ.",
+        "answer": "знаю"
+      },
+      {
+        "question": "Она _____ (помогать) маме.",
+        "answer": "помогает"
+      },
+      {
+        "question": "Мы _____ (любить) спорт.",
+        "answer": "любим"
+      },
+      {
+        "question": "Ты _____ (видеть) это?",
+        "answer": "видишь"
+      },
+      {
+        "question": "Он _____ (стоять) у окна.",
+        "answer": "стоит"
+      },
+      {
+        "question": "Вы _____ (сидеть) на стуле.",
+        "answer": "сидите"
+      },
+      {
+        "question": "Я _____ (идти) домой.",
+        "answer": "иду"
+      },
+      {
+        "question": "Они _____ (хотеть) пить.",
+        "answer": "хотят"
+      },
+      {
+        "question": "Ты _____ (работать) сегодня?",
+        "answer": "работаешь"
+      },
+      {
+        "question": "Мы _____ (читать) газету.",
+        "answer": "читаем"
+      },
+      {
+        "question": "Она _____ (жить) в Петербурге.",
+        "answer": "живет"
+      },
+      {
+        "question": "Я _____ (помнить) тебя.",
+        "answer": "помню"
+      },
+      {
+        "question": "Ты _____ (играть) в футбол?",
+        "answer": "играешь"
+      },
+      {
+        "question": "Он _____ (учить) русский язык.",
+        "answer": "учит"
+      },
+      {
+        "question": "Вы _____ (звонить) друзьям?",
+        "answer": "звоните"
+      },
+      {
+        "question": "Она _____ (готовить) ужин.",
+        "answer": "готовит"
+      },
+      {
+        "question": "Я _____ (думать) о тебе.",
+        "answer": "думаю"
+      },
+      {
+        "question": "Они _____ (пить) чай.",
+        "answer": "пьют"
+      },
+      {
+        "question": "Ты _____ (петь) песню?",
+        "answer": "поёшь"
+      },
+      {
+        "question": "Мы _____ (ждать) автобус.",
+        "answer": "ждём"
+      },
+      {
+        "question": "Она _____ (танцевать) на вечеринке.",
+        "answer": "танцует"
+      },
+      {
+        "question": "Я _____ (рисовать) картину.",
+        "answer": "рисую"
+      },
+      {
+        "question": "Ты _____ (смотреть) фильм?",
+        "answer": "смотришь"
+      },
+      {
+        "question": "Он _____ (покупать) хлеб.",
+        "answer": "покупает"
+      },
+      {
+        "question": "Вы _____ (помнить) меня?",
+        "answer": "помните"
+      },
+      {
+        "question": "Мы _____ (слушать) учителя.",
+        "answer": "слушаем"
+      },
+      {
+        "question": "Они _____ (есть) суп.",
+        "answer": "едят"
+      },
+      {
+        "question": "Я _____ (бежать) на работу.",
+        "answer": "бегу"
+      },
+      {
+        "question": "Ты _____ (лежать) на диване?",
+        "answer": "лежишь"
+      },
+      {
+        "question": "Она _____ (ехать) в школу.",
+        "answer": "едет"
+      },
+      {
+        "question": "Мы _____ (петь) песню.",
+        "answer": "поём"
+      },
+      {
+        "question": "Они _____ (учиться) в университете.",
+        "answer": "учатся"
+      },
+      {
+        "question": "Вы _____ (играть) на гитаре?",
+        "answer": "играете"
+      },
+      {
+        "question": "Я _____ (ходить) в кино.",
+        "answer": "хожу"
+      },
+      {
+        "question": "Ты _____ (брать) книгу?",
+        "answer": "берёшь"
+      },
+      {
+        "question": "Он _____ (давать) совет.",
+        "answer": "даёт"
+      },
+      {
+        "question": "Мы _____ (искать) ключи.",
+        "answer": "ищем"
+      },
+      {
+        "question": "Они _____ (открывать) дверь.",
+        "answer": "открывают"
+      },
+      {
+        "question": "Ты _____ (закрывать) окно?",
+        "answer": "закрываешь"
+      },
+      {
+        "question": "Она _____ (спрашивать) учителя.",
+        "answer": "спрашивает"
+      },
+      {
+        "question": "Вы _____ (отвечать) на вопрос?",
+        "answer": "отвечаете"
+      },
+      {
+        "question": "Я _____ (понимать) тебя.",
+        "answer": "понимаю"
+      },
+      {
+        "question": "Ты _____ (бояться) собак?",
+        "answer": "боишься"
+      },
+      {
+        "question": "Я _____ (говорить) по-английски.",
+        "answer": "говорю"
+      },
+      {
+        "question": "Ты _____ (писать) письмо брату?",
+        "answer": "пишешь"
+      },
+      {
+        "question": "Он _____ (ждать) автобус.",
+        "answer": "ждёт"
+      },
+      {
+        "question": "Мы _____ (гулять) в лесу.",
+        "answer": "гуляем"
+      },
+      {
+        "question": "Вы _____ (слушать) новости?",
+        "answer": "слушаете"
+      },
+      {
+        "question": "Они _____ (читать) книгу вслух.",
+        "answer": "читают"
+      },
+      {
+        "question": "Я _____ (любить) музыку.",
+        "answer": "люблю"
+      },
+      {
+        "question": "Ты _____ (видеть) кошку?",
+        "answer": "видишь"
+      },
+      {
+        "question": "Он _____ (знать) её адрес.",
+        "answer": "знает"
+      },
+      {
+        "question": "Мы _____ (помогать) дедушке.",
+        "answer": "помогаем"
+      },
+      {
+        "question": "Вы _____ (сидеть) в кафе?",
+        "answer": "сидите"
+      },
+      {
+        "question": "Они _____ (стоять) у метро.",
+        "answer": "стоят"
+      },
+      {
+        "question": "Я _____ (идти) на работу.",
+        "answer": "иду"
+      },
+      {
+        "question": "Ты _____ (хотеть) мороженое?",
+        "answer": "хочешь"
+      },
+      {
+        "question": "Она _____ (работать) врачом.",
+        "answer": "работает"
+      },
+      {
+        "question": "Мы _____ (жить) в доме у моря.",
+        "answer": "живём"
+      },
+      {
+        "question": "Вы _____ (готовить) суп?",
+        "answer": "готовите"
+      },
+      {
+        "question": "Они _____ (пить) сок.",
+        "answer": "пьют"
+      },
+      {
+        "question": "Я _____ (петь) любимую песню.",
+        "answer": "пою"
+      },
+      {
+        "question": "Ты _____ (рисовать) красивый пейзаж.",
+        "answer": "рисуешь"
+      },
+      {
+        "question": "Он _____ (учить) новые слова.",
+        "answer": "учит"
+      },
+      {
+        "question": "Мы _____ (играть) в настольные игры.",
+        "answer": "играем"
+      },
+      {
+        "question": "Вы _____ (звонить) маме?",
+        "answer": "звоните"
+      },
+      {
+        "question": "Они _____ (смотреть) телевизор.",
+        "answer": "смотрят"
+      },
+      {
+        "question": "Я _____ (покупать) хлеб в магазине.",
+        "answer": "покупаю"
+      },
+      {
+        "question": "Ты _____ (помнить) его имя?",
+        "answer": "помнишь"
+      },
+      {
+        "question": "Она _____ (танцевать) в зале.",
+        "answer": "танцует"
+      },
+      {
+        "question": "Мы _____ (слушать) учителя.",
+        "answer": "слушаем"
+      },
+      {
+        "question": "Вы _____ (есть) суп?",
+        "answer": "едите"
+      },
+      {
+        "question": "Они _____ (бежать) на стадионе.",
+        "answer": "бегут"
+      },
+      {
+        "question": "Я _____ (лежать) на пляже.",
+        "answer": "лежу"
+      },
+      {
+        "question": "Ты _____ (ехать) в город?",
+        "answer": "едешь"
+      },
+      {
+        "question": "Она _____ (спрашивать) учителя.",
+        "answer": "спрашивает"
+      },
+      {
+        "question": "Мы _____ (отвечать) на вопросы.",
+        "answer": "отвечаем"
+      },
+      {
+        "question": "Вы _____ (понимать) текст?",
+        "answer": "понимаете"
+      },
+      {
+        "question": "Они _____ (искать) ключи.",
+        "answer": "ищут"
+      },
+      {
+        "question": "Я _____ (давать) тебе книгу.",
+        "answer": "даю"
+      },
+      {
+        "question": "Ты _____ (брать) мой телефон?",
+        "answer": "берёшь"
+      },
+      {
+        "question": "Он _____ (ходить) в университет.",
+        "answer": "ходит"
+      },
+      {
+        "question": "Мы _____ (открывать) дверь.",
+        "answer": "открываем"
+      },
+      {
+        "question": "Вы _____ (закрывать) окно?",
+        "answer": "закрываете"
+      },
+      {
+        "question": "Они _____ (бояться) темноты.",
+        "answer": "боятся"
+      },
+      {
+        "question": "Я _____ (петь) громко.",
+        "answer": "пою"
+      },
+      {
+        "question": "Ты _____ (сидеть) за столом?",
+        "answer": "сидишь"
+      },
+      {
+        "question": "Он _____ (работать) на заводе.",
+        "answer": "работает"
+      },
+      {
+        "question": "Мы _____ (гулять) по городу.",
+        "answer": "гуляем"
+      },
+      {
+        "question": "Вы _____ (ждать) врача?",
+        "answer": "ждёте"
+      },
+      {
+        "question": "Они _____ (смеяться) над шуткой.",
+        "answer": "смеются"
+      },
+      {
+        "question": "Я _____ (учиться) в школе.",
+        "answer": "учусь"
+      }
+
+    ],
+    "plurals": [
+        {
+            "question": "What is the plural of 'Стол' - to delete online ?",
+            "answer": "стола"
+        },
+        {
+            "question": "What is the plural of 'друг'- to delete online ?",
+            "answer": "друга"
+        },
+        {
+            "question": "What is the plural of 'Книга' ?",
+            "answer": "книги"
+        },
+        {
+            "question": "What is the plural of 'Стул' ?",
+            "answer": "стулья"
+        },
+        {
+            "question": "What is the plural of 'Окно' ?",
+            "answer": "окна"
+        },
+        {
+            "question": "What is the plural of 'Мать' ?",
+            "answer": "матери"
+        },
+        {
+            "question": "What is the plural of 'Ребёнок' ?",
+            "answer": "дети"
+        },
+        {
+            "question": "What is the plural of 'Человек' ?",
+            "answer": "люди"
+        },
+        {
+            "question": "What is the plural of 'Друг' ?",
+            "answer": "друзья"
+        },
+        {
+            "question": "What is the plural of 'Яблоко' ?",
+            "answer": "яблоки"
+        },
+        {
+            "question": "What is the plural of 'Город' ?",
+            "answer": "города"
+        },
+        {
+            "question": "What is the plural of 'Учитель' ?",
+            "answer": "учителя"
+        },
+        {
+            "question": "What is the plural of 'Сестра' ?",
+            "answer": "сёстры"
+        },
+        {
+            "question": "What is the plural of 'Брат' ?",
+            "answer": "братья"
+        },
+        {
+            "question": "What is the plural of 'Рука' ?",
+            "answer": "руки"
+        },
+        {
+            "question": "What is the plural of 'Дом' ?",
+            "answer": "дома"
+        },
+        {
+            "question": "What is the plural of 'Страница' ?",
+            "answer": "страницы"
+        },
+        {
+            "question": "What is the plural of 'Машина' ?",
+            "answer": "машины"
+        },
+        {
+            "question": "What is the plural of 'Ночь' ?",
+            "answer": "ночи"
+        },
+        {
+            "question": "What is the plural of 'День' ?",
+            "answer": "дни"
+        },
+        {
+            "question": "What is the plural of 'Солнце' ?",
+            "answer": "солнца"
+        },
+        {
+            "question": "What is the plural of 'Поле' ?",
+            "answer": "поля"
+        },
+        {
+            "question": "What is the plural of 'Песня' ?",
+            "answer": "песни"
+        },
+        {
+            "question": "What is the plural of 'Глаз' ?",
+            "answer": "глаза"
+        },
+        {
+            "question": "What is the plural of 'Лист' ?",
+            "answer": "листья"
+        },
+        {
+            "question": "What is the plural of 'Берег' ?",
+            "answer": "берега"
+        },
+        {
+              "question": "What is the plural of 'Камень' ?",
+              "answer": "камни"
+        },
+        {
+              "question": "What is the plural of 'Мост' ?",
+              "answer": "мосты"
+        },
+        {
+              "question": "What is the plural of 'Слово' ?",
+              "answer": "слова"
+        },
+        {
+              "question": "What is the plural of 'Имя' ?",
+              "answer": "имена"
+        },
+        {
+              "question": "What is the plural of 'Часы' ?",
+              "answer": "часы"
+        },
+        {
+              "question": "What is the plural of 'Дверь' ?",
+              "answer": "двери"
+        },
+        {
+              "question": "What is the plural of 'Письмо' ?",
+              "answer": "письма"
+        },
+        {
+              "question": "What is the plural of 'Вода' ?",
+              "answer": "воды"
+        },
+        {
+              "question": "What is the plural of 'Река' ?",
+              "answer": "реки"
+        },
+        {
+              "question": "What is the plural of 'Лес' ?",
+              "answer": "леса"
+        },
+        {
+              "question": "What is the plural of 'Гора' ?",
+              "answer": "горы"
+        },
+        {
+              "question": "What is the plural of 'Пальто' ?",
+              "answer": "пальто"
+        },  
+        {   
+              "question": "What is the plural of 'Человек' ?",
+              "answer": "люди"
+        },  
+        {   
+              "question": "What is the plural of 'Страна' ?",
+              "answer": "страны"
+        },  
+        {   
+              "question": "What is the plural of 'Кот' ?",
+              "answer": "коты"
+        },  
+        {   
+              "question": "What is the plural of 'Собака' ?",
+              "answer": "собаки"
+        },  
+        {   
+              "question": "What is the plural of 'Лошадь' ?",
+              "answer": "лошади"
+        },  
+        {   
+              "question": "What is the plural of 'Кресло' ?",
+              "answer": "кресла"
+        },
+        {
+              "question": "What is the plural of 'Птица' ?",
+              "answer": "птицы"
+        },
+        {
+              "question": "What is the plural of 'Облако' ?",
+              "answer": "облака"
+        },
+        {
+              "question": "What is the plural of 'Тетрадь' ?",
+              "answer": "тетради"
+        },
+        {
+              "question": "What is the plural of 'Гриб' ?",
+              "answer": "грибы"
+        },
+        {
+              "question": "What is the plural of 'Море' ?",
+              "answer": "моря"
+        },
+        {
+              "question": "What is the plural of 'Остров' ?",
+              "answer": "острова"
+        },
+        {
+              "question": "What is the plural of 'Вопрос' ?",
+              "answer": "вопросы"
+        },
+        {
+            "question": "What is the plural of 'Звезда' ?",
+            "answer": "звёзды"
+        },  
+        {   
+            "question": "What is the plural of 'Снег' ?",
+            "answer": "снега"
+        },  
+        {   
+            "question": "What is the plural of 'Ключ' ?",
+            "answer": "ключи"
+        },  
+        {   
+            "question": "What is the plural of 'Портфель' ?",
+            "answer": "портфели"
+        },  
+        {   
+            "question": "What is the plural of 'Сосед' ?",
+            "answer": "соседи"
+        },  
+        {   
+            "question": "What is the plural of 'Карандаш' ?",
+            "answer": "карандаши"
+        },  
+        {   
+            "question": "What is the plural of 'Флаг' ?",
+            "answer": "флаги"
+        },  
+        {   
+            "question": "What is the plural of 'Пирог' ?",
+            "answer": "пироги"
+        },  
+        {   
+            "question": "What is the plural of 'Учёный' ?",
+            "answer": "учёные"
+        },  
+        {   
+            "question": "What is the plural of 'Медведь' ?",
+            "answer": "медведи"
+        },  
+        {   
+            "question": "What is the plural of 'Парк' ?",
+            "answer": "парки"
+        },  
+        {   
+            "question": "What is the plural of 'Зонт' ?",
+            "answer": "зонты"
+        },  
+        {   
+            "question": "What is the plural of 'Трамвай' ?",
+            "answer": "трамваи"
+        },  
+        {   
+            "question": "What is the plural of 'Месяц' ?",
+            "answer": "месяцы"
+        },  
+        {   
+            "question": "What is the plural of 'Лампочка' ?",
+            "answer": "лампочки"
+        },  
+        {   
+            "question": "What is the plural of 'Площадь' ?",
+            "answer": "площади"
+        },  
+        {   
+            "question": "What is the plural of 'Тень' ?",
+            "answer": "тени"
+        },  
+        {   
+            "question": "What is the plural of 'Рукав' ?",
+            "answer": "рукава"
+        },  
+        {   
+            "question": "What is the plural of 'Лёд' ?",
+            "answer": "льды"
+        },  
+        {   
+            "question": "What is the plural of 'Воробей' ?",
+            "answer": "воробьи"
+        },  
+        {   
+            "question": "What is the plural of 'Тигр' ?",
+            "answer": "тигры"
+        },  
+        {   
+            "question": "What is the plural of 'Жираф' ?",
+            "answer": "жирафы"
+        },  
+        {   
+            "question": "What is the plural of 'Рисунок' ?",
+            "answer": "рисунки"
+        },  
+        {   
+            "question": "What is the plural of 'Герой' ?",
+            "answer": "герои"
+        },  
+        {   
+            "question": "What is the plural of 'Поезд' ?",
+            "answer": "поезда"
+        },  
+        {   
+            "question": "What is the plural of 'Язык' ?",
+            "answer": "языки"
+        },  
+        {   
+            "question": "What is the plural of 'Письменность' ?",
+            "answer": "письменности"
+        },  
+        {   
+            "question": "What is the plural of 'Градус' ?",
+            "answer": "градусы"
+        },  
+        {   
+            "question": "What is the plural of 'Скала' ?",
+            "answer": "скалы"
+        },  
+        {   
+            "question": "What is the plural of 'Лебедь' ?",
+            "answer": "лебеди"
+        },  
+        {   
+            "question": "What is the plural of 'Ухо' ?",
+            "answer": "уши"
+        },  
+        {   
+            "question": "What is the plural of 'Праздник' ?",
+            "answer": "праздники"
+        },  
+        {   
+            "question": "What is the plural of 'Медаль' ?",
+            "answer": "медали"
+        },  
+        {   
+            "question": "What is the plural of 'Перо' ?",
+            "answer": "перья"
+        },  
+        {   
+            "question": "What is the plural of 'Хлеб' ?",
+            "answer": "хлеба"
+        },  
+        {   
+            "question": "What is the plural of 'Рассвет' ?",
+            "answer": "рассветы"
+        },  
+        {   
+            "question": "What is the plural of 'Салют' ?",
+            "answer": "салюты"
+        },  
+        {   
+            "question": "What is the plural of 'Ботинок' ?",
+            "answer": "ботинки"
+        },  
+        {   
+            "question": "What is the plural of 'Стекло' ?",
+            "answer": "стёкла"
+        },  
+        {   
+            "question": "What is the plural of 'Чулок' ?",
+            "answer": "чулки"
+        },  
+        {   
+            "question": "What is the plural of 'Розетка' ?",
+            "answer": "розетки"
+        },  
+        {   
+            "question": "What is the plural of 'Мостик' ?",
+            "answer": "мостики"
+        },  
+        {   
+            "question": "What is the plural of 'Верёвка' ?",
+            "answer": "верёвки"
+        },  
+        {   
+            "question": "What is the plural of 'Фонарь' ?",
+            "answer": "фонари"
+        },  
+        {   
+            "question": "What is the plural of 'Шарф' ?",
+            "answer": "шарфы"
+        },  
+        {   
+            "question": "What is the plural of 'Ракета' ?",
+            "answer": "ракеты"
+        },  
+        {   
+            "question": "What is the plural of 'Бумага' ?",
+            "answer": "бумаги"
+        },  
+        {   
+            "question": "What is the plural of 'Медсестра' ?",
+            "answer": "медсёстры"
+        },  
+        {   
+            "question": "What is the plural of 'Сигнал' ?",
+            "answer": "сигналы"
+        },  
+        {
+            "question": "What is the plural of 'Ягода' ?",
+            "answer": "ягоды"
+        },  
+        {   
+            "question": "What is the plural of 'Сок' ?",
+            "answer": "соки"
+        },  
+        {   
+            "question": "What is the plural of 'Песок' ?",
+            "answer": "пески"
+        },  
+        {   
+            "question": "What is the plural of 'Шкаф' ?",
+            "answer": "шкафы"
+        },  
+        {   
+            "question": "What is the plural of 'Дерево' ?",
+            "answer": "деревья"
+        },  
+        {   
+            "question": "What is the plural of 'Тело' ?",
+            "answer": "тела"
+        },  
+        {   
+            "question": "What is the plural of 'Стрела' ?",
+            "answer": "стрелы"
+        },  
+        {   
+            "question": "What is the plural of 'Журнал' ?",
+            "answer": "журналы"
+        },  
+        {   
+            "question": "What is the plural of 'Листья' ?",
+            "answer": "листья"
+        },  
+        {   
+            "question": "What is the plural of 'Свет' ?",
+            "answer": "света"
+        },  
+        {   
+            "question": "What is the plural of 'Меч' ?",
+            "answer": "мечи"
+        },  
+        {   
+            "question": "What is the plural of 'Стадо' ?",
+            "answer": "стада"
+        },  
+        {   
+            "question": "What is the plural of 'Шум' ?",
+            "answer": "шумы"
+        },  
+        {   
+            "question": "What is the plural of 'Тепло' ?",
+            "answer": "тепла"
+        },  
+        {   
+            "question": "What is the plural of 'Лодка' ?",
+            "answer": "лодки"
+        },  
+        {   
+            "question": "What is the plural of 'Ткань' ?",
+            "answer": "ткани"
+        },  
+        {   
+            "question": "What is the plural of 'Яблоко' ?",
+            "answer": "яблоки"
+        },  
+        {   
+            "question": "What is the plural of 'Судно' ?",
+            "answer": "судна"
+        },  
+        {   
+            "question": "What is the plural of 'Картинка' ?",
+            "answer": "картинки"
+        },  
+        {   
+            "question": "What is the plural of 'Ребёнок' ?",
+            "answer": "дети"
+        },  
+        {   
+            "question": "What is the plural of 'Молоко' ?",
+            "answer": "молока"
+        },  
+        {   
+            "question": "What is the plural of 'Песня' ?",
+            "answer": "песни"
+        },  
+        {   
+            "question": "What is the plural of 'Кошка' ?",
+            "answer": "кошки"
+        },  
+        {   
+            "question": "What is the plural of 'Тюльпан' ?",
+            "answer": "тюльпаны"
+        },  
+        {   
+            "question": "What is the plural of 'Река' ?",
+            "answer": "реки"
+        },  
+        {   
+            "question": "What is the plural of 'Скала' ?",
+            "answer": "скалы"
+        },  
+        {   
+            "question": "What is the plural of 'Картон' ?",
+            "answer": "картоны"
+        },  
+        {   
+            "question": "What is the plural of 'Молния' ?",
+            "answer": "молнии"
+        },  
+        {   
+            "question": "What is the plural of 'Фонтан' ?",
+            "answer": "фонтаны"
+        },  
+        {   
+            "question": "What is the plural of 'Гараж' ?",
+            "answer": "гаражи"
+        },  
+        {   
+            "question": "What is the plural of 'Микрофон' ?",
+            "answer": "микрофоны"
+        },  
+        {   
+            "question": "What is the plural of 'Ковер' ?",
+            "answer": "ковры"
+        },  
+        {   
+            "question": "What is the plural of 'Тростник' ?",
+            "answer": "тростники"
+        },  
+        {   
+            "question": "What is the plural of 'Лист' ?",
+            "answer": "листья"
+        },  
+        {   
+            "question": "What is the plural of 'Куб' ?",
+            "answer": "кубы"
+        },  
+        {   
+            "question": "What is the plural of 'Флора' ?",
+            "answer": "флоры"
+        },  
+        {   
+            "question": "What is the plural of 'Сцена' ?",
+            "answer": "сцены"
+        },  
+        {   
+            "question": "What is the plural of 'Театр' ?",
+            "answer": "театры"
+        },  
+        {   
+            "question": "What is the plural of 'Шар' ?",
+            "answer": "шары"
+        },  
+        {   
+            "question": "What is the plural of 'Коробка' ?",
+            "answer": "коробки"
+        },  
+        {   
+            "question": "What is the plural of 'Рукав' ?",
+            "answer": "рукава"
+        },  
+        {   
+            "question": "What is the plural of 'Небо' ?",
+            "answer": "небеса"
+        },  
+        {   
+            "question": "What is the plural of 'Нога' ?",
+            "answer": "ноги"
+        },  
+        {   
+            "question": "What is the plural of 'Мечта' ?",
+            "answer": "мечты"
+        },  
+        {   
+            "question": "What is the plural of 'Шляпа' ?",
+            "answer": "шляпы"
+        },  
+        {   
+            "question": "What is the plural of 'План' ?",
+            "answer": "планы"
+        },  
+        {   
+            "question": "What is the plural of 'Станция' ?",
+            "answer": "станции"
+        },  
+        {   
+            "question": "What is the plural of 'Река' ?",
+            "answer": "реки"
+        },  
+        {   
+            "question": "What is the plural of 'Здание' ?",
+            "answer": "здания"
+        },  
+        {   
+            "question": "What is the plural of 'Лавка' ?",
+            "answer": "лавки"
+        },  
+        {   
+            "question": "What is the plural of 'Дорога' ?",
+            "answer": "дороги"
+        }
+            
+    ],
+    "adjectives": [
+      {
+        "question": "How to say good milk? (хороший) молоко",
+        "answer": "хорошее"
+    },
+    {
+        "question": "How to say good day? (хороший) день",
+        "answer": "хороший"
+    },
+    {
+        "question": "How to say good weather? (хороший) погода",
+        "answer": "хорошая"
+    },
+    {
+        "question": "How to say big house? (большой) дом",
+        "answer": "большой"
+    },
+    {
+        "question": "How to say big city? (большой) город",
+        "answer": "большой"
+    },
+    {
+        "question": "How to say big apple? (большой) яблоко",
+        "answer": "большое"
+    },
+    {
+        "question": "How to say big river? (большой) река",
+        "answer": "большая"
+    },
+    {
+        "question": "How to say small dog? (маленький) собака",
+        "answer": "маленькая"
+    },
+    {
+        "question": "How to say small cat? (маленький) кот",
+        "answer": "маленький"
+    },
+    {
+        "question": "How to say small window? (маленький) окно",
+        "answer": "маленькое"
+    },
+    {
+        "question": "How to say beautiful flower? (красивый) цветок",
+        "answer": "красивый"
+    },
+    {
+        "question": "How to say beautiful girl? (красивый) девушка",
+        "answer": "красивая"
+    },
+    {
+        "question": "How to say beautiful building? (красивый) здание",
+        "answer": "красивое"
+    },
+    {
+        "question": "How to say old man? (старый) мужчина",
+        "answer": "старый"
+    },
+    {
+        "question": "How to say old woman? (старый) женщина",
+        "answer": "старая"
+    },
+    {
+        "question": "How to say old tree? (старый) дерево",
+        "answer": "старое"
+    },
+    {
+        "question": "How to say new car? (новый) машина",
+        "answer": "новая"
+    },
+    {
+        "question": "How to say new phone? (новый) телефон",
+        "answer": "новый"
+    },
+    {
+        "question": "How to say new letter? (новый) письмо",
+        "answer": "новое"
+    },
+    {
+        "question": "How to say long street? (длинный) улица",
+        "answer": "длинная"
+    },
+    {
+        "question": "How to say long bridge? (длинный) мост",
+        "answer": "длинный"
+    },
+    {
+        "question": "How to say long name? (длинный) имя",
+        "answer": "длинное"
+    },
+    {
+        "question": "How to say cold night? (холодный) ночь",
+        "answer": "холодная"
+    },
+    {
+        "question": "How to say cold wind? (холодный) ветер",
+        "answer": "холодный"
+    },
+    {
+        "question": "How to say cold sea? (холодный) море",
+        "answer": "холодное"
+    },
+    {
+        "question": "How to say warm soup? (тёплый) суп",
+        "answer": "тёплый"
+    },
+    {
+        "question": "How to say warm tea? (тёплый) чай",
+        "answer": "тёплый"
+    },
+    {
+        "question": "How to say warm sun? (тёплый) солнце",
+        "answer": "тёплое"
+    },
+    {
+        "question": "How to say dark room? (тёмный) комната",
+        "answer": "тёмная"
+    },
+    {
+        "question": "How to say dark sky? (тёмный) небо",
+        "answer": "тёмное"
+    },
+    {
+        "question": "How to say short story? (короткий) рассказ",
+        "answer": "короткий"
+    },
+    {
+        "question": "How to say short life? (короткий) жизнь",
+        "answer": "короткая"
+    },
+    {
+        "question": "How to say short word? (короткий) слово",
+        "answer": "короткое"
+    },
+    {
+        "question": "How to say light dress? (лёгкий) платье",
+        "answer": "лёгкое"
+    },
+    {
+        "question": "How to say heavy bag? (тяжёлый) сумка",
+        "answer": "тяжёлая"
+    },
+    {
+        "question": "How to say heavy suitcase? (тяжёлый) чемодан",
+        "answer": "тяжёлый"
+    },
+    {
+        "question": "How to say heavy stone? (тяжёлый) камень",
+        "answer": "тяжёлый"
+    },
+    {
+        "question": "How to say old book? (старый) книга",
+        "answer": "старая"
+    },
+    {
+        "question": "How to say strong man? (сильный) мужчина",
+        "answer": "сильный"
+    },
+    {
+        "question": "How to say strong wind? (сильный) ветер",
+        "answer": "сильный"
+    },
+    {
+        "question": "How to say weak voice? (слабый) голос",
+        "answer": "слабый"
+    },
+    {
+        "question": "How to say weak body? (слабый) тело",
+        "answer": "слабое"
+    },
+    {
+        "question": "How to say interesting book? (интересный) книга",
+        "answer": "интересная"
+    },
+    {
+        "question": "How to say interesting film? (интересный) фильм",
+        "answer": "интересный"
+    },
+    {
+        "question": "How to say interesting idea? (интересный) идея",
+        "answer": "интересная"
+    },
+    {
+        "question": "How to say red apple? (красный) яблоко",
+        "answer": "красное"
+    },
+    {
+        "question": "How to say red flower? (красный) цветок",
+        "answer": "красный"
+    },
+    {
+      "question": "How to say green tree? (зелёный) дерево",
+      "answer": "зелёное"
+  },
+  {
+      "question": "How to say green grass? (зелёный) трава",
+      "answer": "зелёная"
+  },
+  {
+      "question": "How to say green apple? (зелёный) яблоко",
+      "answer": "зелёное"
+  },
+  {
+      "question": "How to say black coffee? (чёрный) кофе",
+      "answer": "чёрный"
+  },
+  {
+      "question": "How to say black cat? (чёрный) кот",
+      "answer": "чёрный"
+  },
+  {
+      "question": "How to say black night? (чёрный) ночь",
+      "answer": "чёрная"
+  },
+  {
+      "question": "How to say white snow? (белый) снег",
+      "answer": "белый"
+  },
+  {
+      "question": "How to say white shirt? (белый) рубашка",
+      "answer": "белая"
+  },
+  {
+      "question": "How to say white sea? (белый) море",
+      "answer": "белое"
+  },
+  {
+      "question": "How to say blue sky? (синий) небо",
+      "answer": "синее"
+  },
+  {
+      "question": "How to say blue water? (синий) вода",
+      "answer": "синяя"
+  },
+  {
+      "question": "How to say blue book? (синий) книга",
+      "answer": "синяя"
+  },
+  {
+      "question": "How to say yellow sun? (жёлтый) солнце",
+      "answer": "жёлтое"
+  },
+  {
+      "question": "How to say yellow banana? (жёлтый) банан",
+      "answer": "жёлтый"
+  },
+  {
+      "question": "How to say yellow dress? (жёлтый) платье",
+      "answer": "жёлтое"
+  },
+  {
+      "question": "How to say pink rose? (розовый) роза",
+      "answer": "розовая"
+  },
+  {
+      "question": "How to say pink flower? (розовый) цветок",
+      "answer": "розовый"
+  },
+  {
+      "question": "How to say pink sky? (розовый) небо",
+      "answer": "розовое"
+  },
+  {
+      "question": "How to say brown table? (коричневый) стол",
+      "answer": "коричневый"
+  },
+  {
+      "question": "How to say brown chair? (коричневый) стул",
+      "answer": "коричневый"
+  },
+  {
+      "question": "How to say brown bag? (коричневый) сумка",
+      "answer": "коричневая"
+  },
+  {
+      "question": "How to say gray wolf? (серый) волк",
+      "answer": "серый"
+  },
+  {
+      "question": "How to say gray sky? (серый) небо",
+      "answer": "серое"
+  },
+  {
+      "question": "How to say gray cloud? (серый) облако",
+      "answer": "серое"
+  },
+  {
+      "question": "How to say dark night? (тёмный) ночь",
+      "answer": "тёмная"
+  },
+  {
+      "question": "How to say dark forest? (тёмный) лес",
+      "answer": "тёмный"
+  },
+  {
+      "question": "How to say dark lake? (тёмный) озеро",
+      "answer": "тёмное"
+  },
+  {
+      "question": "How to say light sun? (светлый) солнце",
+      "answer": "светлое"
+  },
+  {
+      "question": "How to say light house? (светлый) дом",
+      "answer": "светлый"
+  },
+  {
+      "question": "How to say light beer? (светлый) пиво",
+      "answer": "светлое"
+  },
+  {
+      "question": "How to say kind woman? (добрый) женщина",
+      "answer": "добрая"
+  },
+  {
+      "question": "How to say kind man? (добрый) мужчина",
+      "answer": "добрый"
+  },
+  {
+      "question": "How to say kind heart? (добрый) сердце",
+      "answer": "доброе"
+  },
+  {
+      "question": "How to say lazy student? (ленивый) студент",
+      "answer": "ленивый"
+  },
+  {
+      "question": "How to say lazy cat? (ленивый) кошка",
+      "answer": "ленивая"
+  },
+  {
+      "question": "How to say lazy dog? (ленивый) собака",
+      "answer": "ленивая"
+  },
+  {
+      "question": "How to say clean street? (чистый) улица",
+      "answer": "чистая"
+  },
+  {
+      "question": "How to say clean room? (чистый) комната",
+      "answer": "чистая"
+  },
+  {
+      "question": "How to say clean water? (чистый) вода",
+      "answer": "чистая"
+  },
+  {
+      "question": "How to say dirty hands? (грязный) руки",
+      "answer": "грязные"
+  },
+  {
+      "question": "How to say dirty clothes? (грязный) одежда",
+      "answer": "грязная"
+  },
+  {
+      "question": "How to say dirty street? (грязный) улица",
+      "answer": "грязная"
+  },
+  {
+      "question": "How to say expensive car? (дорогой) машина",
+      "answer": "дорогая"
+  },
+  {
+      "question": "How to say expensive watch? (дорогой) часы",
+      "answer": "дорогие"
+  },
+  {
+      "question": "How to say expensive hotel? (дорогой) отель",
+      "answer": "дорогой"
+  },
+  {
+      "question": "How to say cheap phone? (дешёвый) телефон",
+      "answer": "дешёвый"
+  },
+  {
+      "question": "How to say cheap hotel? (дешёвый) отель",
+      "answer": "дешёвый"
+  },
+  {
+      "question": "How to say cheap ticket? (дешёвый) билет",
+      "answer": "дешёвый"
+  },
+  {
+    "question": "How to say dark room? (тёмный) комната",
+    "answer": "тёмная"
+},
+{
+    "question": "How to say dark night? (тёмный) ночь",
+    "answer": "тёмная"
+},
+{
+    "question": "How to say dark forest? (тёмный) лес",
+    "answer": "тёмный"
+},
+{
+    "question": "How to say bright sun? (яркий) солнце",
+    "answer": "яркое"
+},
+{
+    "question": "How to say bright star? (яркий) звезда",
+    "answer": "яркая"
+},
+{
+    "question": "How to say bright dress? (яркий) платье",
+    "answer": "яркое"
+},
+{
+    "question": "How to say weak tea? (слабый) чай",
+    "answer": "слабый"
+},
+{
+    "question": "How to say weak wind? (слабый) ветер",
+    "answer": "слабый"
+},
+{
+    "question": "How to say weak argument? (слабый) аргумент",
+    "answer": "слабый"
+},
+{
+    "question": "How to say strong coffee? (крепкий) кофе",
+    "answer": "крепкий"
+},
+{
+    "question": "How to say strong muscles? (крепкий) мышцы",
+    "answer": "крепкие"
+},
+{
+    "question": "How to say strong handshake? (крепкий) рукопожатие",
+    "answer": "крепкое"
+},
+{
+    "question": "How to say light bag? (лёгкий) сумка",
+    "answer": "лёгкая"
+},
+{
+    "question": "How to say light rain? (лёгкий) дождь",
+    "answer": "лёгкий"
+},
+{
+    "question": "How to say light meal? (лёгкий) еда",
+    "answer": "лёгкая"
+},
+{
+    "question": "How to say heavy suitcase? (тяжёлый) чемодан",
+    "answer": "тяжёлый"
+},
+{
+    "question": "How to say heavy work? (тяжёлый) работа",
+    "answer": "тяжёлая"
+},
+{
+    "question": "How to say heavy atmosphere? (тяжёлый) атмосфера",
+    "answer": "тяжёлая"
+},
+{
+    "question": "How to say old castle? (старый) замок",
+    "answer": "старый"
+},
+{
+    "question": "How to say old friend? (старый) друг",
+    "answer": "старый"
+},
+{
+    "question": "How to say old tradition? (старый) традиция",
+    "answer": "старая"
+},
+{
+    "question": "How to say young generation? (молодой) поколение",
+    "answer": "молодое"
+},
+{
+    "question": "How to say young woman? (молодой) женщина",
+    "answer": "молодая"
+},
+{
+    "question": "How to say young tree? (молодой) дерево",
+    "answer": "молодое"
+},
+{
+    "question": "How to say quiet evening? (тихий) вечер",
+    "answer": "тихий"
+},
+{
+    "question": "How to say quiet person? (тихий) человек",
+    "answer": "тихий"
+},
+{
+    "question": "How to say quiet voice? (тихий) голос",
+    "answer": "тихий"
+},
+{
+    "question": "How to say loud noise? (громкий) шум",
+    "answer": "громкий"
+},
+{
+    "question": "How to say loud music? (громкий) музыка",
+    "answer": "громкая"
+},
+{
+    "question": "How to say loud laughter? (громкий) смех",
+    "answer": "громкий"
+},
+{
+    "question": "How to say expensive car? (дорогой) машина",
+    "answer": "дорогая"
+},
+{
+    "question": "How to say expensive gift? (дорогой) подарок",
+    "answer": "дорогой"
+},
+{
+    "question": "How to say expensive hotel? (дорогой) отель",
+    "answer": "дорогой"
+},
+{
+    "question": "How to say cheap ticket? (дешёвый) билет",
+    "answer": "дешёвый"
+},
+{
+    "question": "How to say cheap restaurant? (дешёвый) ресторан",
+    "answer": "дешёвый"
+},
+{
+    "question": "How to say cheap dress? (дешёвый) платье",
+    "answer": "дешёвое"
+},
+{
+    "question": "How to say deep river? (глубокий) река",
+    "answer": "глубокая"
+},
+{
+    "question": "How to say deep lake? (глубокий) озеро",
+    "answer": "глубокое"
+},
+{
+    "question": "How to say deep thought? (глубокий) мысль",
+    "answer": "глубокая"
+},
+{
+    "question": "How to say shallow water? (мелкий) вода",
+    "answer": "мелкая"
+},
+{
+    "question": "How to say shallow river? (мелкий) река",
+    "answer": "мелкая"
+},
+{
+    "question": "How to say shallow dish? (мелкий) тарелка",
+    "answer": "мелкая"
+},
+{
+    "question": "How to say tasty soup? (вкусный) суп",
+    "answer": "вкусный"
+},
+{
+    "question": "How to say tasty fruit? (вкусный) фрукт",
+    "answer": "вкусный"
+},
+{
+    "question": "How to say tasty dessert? (вкусный) десерт",
+    "answer": "вкусный"
+}
+    ],
+    "prepositional": [
+        {
+            "question": "How to say 'in the room'? комната",
+            "answer": "в комнате"
+        },
+        {
+            "question": "How to say 'about the book'? книга",
+            "answer": "о книге"
+        },
+        {
+            "question": "How to say 'in the city'? город",
+            "answer": "в городе"
+        },
+        {
+            "question": "How to say 'about the movie'? фильм",
+            "answer": "о фильме"
+        },
+        {
+            "question": "How to say 'in the apartment'? квартира",
+            "answer": "в квартире"
+        },
+        {
+            "question": "How to say 'about the winter'? зима",
+            "answer": "о зиме"
+        },
+        {
+            "question": "How to say 'in the museum'? музей",
+            "answer": "в музее"
+        },
+        {
+            "question": "How to say 'about the dress'? платье",
+            "answer": "о платье"
+        },
+        {
+            "question": "How to say 'in the house'? дом",
+            "answer": "в доме"
+        },
+        {
+            "question": "How to say 'about the actor'? актёр",
+            "answer": "об актёре"
+        },
+        {
+            "question": "How to say 'in the sea'? море",
+            "answer": "в море"
+        },
+        {
+            "question": "How to say 'about the woman'? женщина",
+            "answer": "о женщине"
+        },
+        {
+            "question": "How to say 'in the building'? здание",
+            "answer": "в здании"
+        },
+        {
+            "question": "How to say 'about the street'? улица",
+            "answer": "о улице"
+        },
+        {
+            "question": "How to say 'in the park'? парк",
+            "answer": "в парке"
+        },
+        {
+            "question": "How to say 'about the night'? ночь",
+            "answer": "о ночи"
+        },
+        {
+            "question": "How to say 'in the forest'? лес",
+            "answer": "в лесу"
+        },
+        {
+            "question": "How to say 'about the table'? стол",
+            "answer": "о столе"
+        },
+        {
+            "question": "How to say 'in the chair'? стул",
+            "answer": "в стуле"
+        },
+        {
+            "question": "How to say 'about the cat'? кот",
+            "answer": "о коте"
+        },
+        {
+            "question": "How to say 'in the village'? деревня",
+            "answer": "в деревне"
+        },
+        {
+            "question": "How to say 'about the dog'? собака",
+            "answer": "о собаке"
+        },
+        {
+            "question": "How to say 'in the field'? поле",
+            "answer": "в поле"
+        },
+        {
+            "question": "How to say 'about the student'? студент",
+            "answer": "о студенте"
+        },
+        {
+            "question": "How to say 'in the car'? машина",
+            "answer": "в машине"
+        },
+        {
+            "question": "How to say 'about the phone'? телефон",
+            "answer": "о телефоне"
+        },
+        {
+            "question": "How to say 'in the restaurant'? ресторан",
+            "answer": "в ресторане"
+        },
+        {
+            "question": "How to say 'about the lake'? озеро",
+            "answer": "об озере"
+        },
+        {
+            "question": "How to say 'in the garden'? сад",
+            "answer": "в саду"
+        },
+        {
+            "question": "How to say 'about the professor'? профессор",
+            "answer": "о профессоре"
+        },
+        {
+            "question": "How to say 'in the kitchen'? кухня",
+            "answer": "в кухне"
+        },
+        {
+            "question": "How to say 'about the train'? поезд",
+            "answer": "о поезде"
+        },
+        {
+            "question": "How to say 'in the river'? река",
+            "answer": "в реке"
+        },
+        {
+            "question": "How to say 'about the bridge'? мост",
+            "answer": "о мосте"
+        },
+        {
+            "question": "How to say 'in the library'? библиотека",
+            "answer": "в библиотеке"
+        },
+        {
+            "question": "How to say 'about the computer'? компьютер",
+            "answer": "о компьютере"
+        },
+        {
+            "question": "How to say 'in the theater'? театр",
+            "answer": "в театре"
+        },
+        {
+            "question": "How to say 'about the letter'? письмо",
+            "answer": "о письме"
+        },
+        {
+            "question": "How to say 'in the store'? магазин",
+            "answer": "в магазине"
+        },
+        {
+            "question": "How to say 'about the tree'? дерево",
+            "answer": "о дереве"
+        },
+        {
+            "question": "How to say 'in the stadium'? стадион",
+            "answer": "на стадионе"
+        },
+        {
+            "question": "How to say 'about the airport'? аэропорт",
+            "answer": "об аэропорте"
+        },
+        {
+            "question": "How to say 'in the university'? университет",
+            "answer": "в университете"
+        },
+        {
+            "question": "How to say 'about the family'? семья",
+            "answer": "о семье"
+        },
+        {
+            "question": "How to say 'in the hotel'? отель",
+            "answer": "в отеле"
+        },
+        {
+            "question": "How to say 'about the sun'? солнце",
+            "answer": "о солнце"
+        },
+        {
+            "question": "How to say 'in the airplane'? самолёт",
+            "answer": "в самолёте"
+        },
+        {
+            "question": "How to say 'about the bicycle'? велосипед",
+            "answer": "о велосипеде"
+        },
+        {
+            "question": "How to say 'in the bed'? кровать",
+            "answer": "в кровати"
+        },
+          {
+              "question": "How to say 'in the library'? библиотека",
+              "answer": "в библиотеке"
+          },
+          {
+              "question": "How to say 'about the scientist'? учёный",
+              "answer": "об учёном"
+          },
+          {
+              "question": "How to say 'in the university'? университет",
+              "answer": "в университете"
+          },
+          {
+              "question": "How to say 'about the river'? река",
+              "answer": "о реке"
+          },
+          {
+              "question": "How to say 'in the shop'? магазин",
+              "answer": "в магазине"
+          },
+          {
+              "question": "How to say 'about the office'? офис",
+              "answer": "об офисе"
+          },
+          {
+              "question": "How to say 'in the apartment'? квартира",
+              "answer": "в квартире"
+          },
+          {
+              "question": "How to say 'about the bridge'? мост",
+              "answer": "о мосте"
+          },
+          {
+              "question": "How to say 'in the car'? машина",
+              "answer": "в машине"
+          },
+          {
+              "question": "How to say 'about the table'? стол",
+              "answer": "о столе"
+          },
+          {
+              "question": "How to say 'in the chair'? стул",
+              "answer": "на стуле"
+          },
+          {
+              "question": "How to say 'about the notebook'? тетрадь",
+              "answer": "о тетради"
+          },
+          {
+              "question": "How to say 'in the room'? комната",
+              "answer": "в комнате"
+          },
+          {
+              "question": "How to say 'about the garden'? сад",
+              "answer": "о саде"
+          },
+          {
+              "question": "How to say 'in the forest'? лес",
+              "answer": "в лесу"
+          },
+          {
+              "question": "How to say 'about the night'? ночь",
+              "answer": "о ночи"
+          },
+          {
+              "question": "How to say 'in the village'? деревня",
+              "answer": "в деревне"
+          },
+          {
+              "question": "How to say 'about the field'? поле",
+              "answer": "о поле"
+          },
+          {
+              "question": "How to say 'in the street'? улица",
+              "answer": "на улице"
+          },
+          {
+              "question": "How to say 'about the cat'? кошка",
+              "answer": "о кошке"
+          },
+          {
+              "question": "How to say 'in the letter'? письмо",
+              "answer": "в письме"
+          },
+          {
+              "question": "How to say 'about the train'? поезд",
+              "answer": "о поезде"
+          },
+          {
+              "question": "How to say 'in the factory'? фабрика",
+              "answer": "на фабрике"
+          },
+          {
+              "question": "How to say 'about the market'? рынок",
+              "answer": "о рынке"
+          },
+          {
+              "question": "How to say 'in the corner'? угол",
+              "answer": "в углу"
+          },
+          {
+              "question": "How to say 'about the road'? дорога",
+              "answer": "о дороге"
+          },
+          {
+              "question": "How to say 'in the house'? дом",
+              "answer": "в доме"
+          },
+          {
+              "question": "How to say 'about the friend'? друг",
+              "answer": "о друге"
+          },
+          {
+              "question": "How to say 'in the airport'? аэропорт",
+              "answer": "в аэропорте"
+          },
+          {
+              "question": "How to say 'about the star'? звезда",
+              "answer": "о звезде"
+          },
+          {
+              "question": "How to say 'in the tree'? дерево",
+              "answer": "на дереве"
+          },
+          {
+              "question": "How to say 'about the mother'? мать",
+              "answer": "о матери"
+          },
+          {
+              "question": "How to say 'in the theater'? театр",
+              "answer": "в театре"
+          },
+          {
+              "question": "How to say 'about the floor'? этаж",
+              "answer": "об этаже"
+          },
+          {
+              "question": "How to say 'in the newspaper'? газета",
+              "answer": "в газете"
+          },
+          {
+              "question": "How to say 'about the dog'? собака",
+              "answer": "о собаке"
+          },
+          {
+              "question": "How to say 'in the prison'? тюрьма",
+              "answer": "в тюрьме"
+          },
+          {
+              "question": "How to say 'about the soldier'? солдат",
+              "answer": "о солдате"
+          },
+          {
+              "question": "How to say 'in the sea'? море",
+              "answer": "в море"
+          },
+          {
+              "question": "How to say 'about the father'? отец",
+              "answer": "об отце"
+          },
+          {
+              "question": "How to say 'in the museum'? музей",
+              "answer": "в музее"
+          },
+          {
+              "question": "How to say 'about the computer'? компьютер",
+              "answer": "о компьютере"
+          },
+          {
+              "question": "How to say 'in the taxi'? такси",
+              "answer": "в такси"
+          },
+          {
+              "question": "How to say 'about the child'? ребёнок",
+              "answer": "о ребёнке"
+          },
+          {
+              "question": "How to say 'in the kitchen'? кухня",
+              "answer": "в кухне"
+          },
+          {
+              "question": "How to say 'about the sun'? солнце",
+              "answer": "о солнце"
+          },
+          {
+              "question": "How to say 'in the streetcar'? трамвай",
+              "answer": "в трамвае"
+          },
+          {
+              "question": "How to say 'about the elephant'? слон",
+              "answer": "о слоне"
+          },
+          {
+              "question": "How to say 'in the hotel'? гостиница",
+              "answer": "в гостинице"
+          },
+            {
+                "question": "How to say 'in the mountain'? гора",
+                "answer": "в горе"
+            },
+            {
+                "question": "How to say 'about the bird'? птица",
+                "answer": "о птице"
+            },
+            {
+                "question": "How to say 'in the book'? книга",
+                "answer": "в книге"
+            },
+            {
+                "question": "How to say 'about the clock'? часы",
+                "answer": "о часах"
+            },
+            {
+                "question": "How to say 'in the park'? парк",
+                "answer": "в парке"
+            },
+            {
+                "question": "How to say 'about the lake'? озеро",
+                "answer": "об озере"
+            },
+            {
+                "question": "How to say 'in the sky'? небо",
+                "answer": "в небе"
+            },
+            {
+                "question": "How to say 'about the teacher'? учитель",
+                "answer": "об учителе"
+            },
+            {
+                "question": "How to say 'in the notebook'? блокнот",
+                "answer": "в блокноте"
+            },
+            {
+                "question": "How to say 'about the winter'? зима",
+                "answer": "о зиме"
+            },
+            {
+                "question": "How to say 'in the movie'? фильм",
+                "answer": "в фильме"
+            },
+            {
+                "question": "How to say 'about the artist'? художник",
+                "answer": "о художнике"
+            },
+            {
+                "question": "How to say 'in the mirror'? зеркало",
+                "answer": "в зеркале"
+            },
+            {
+                "question": "How to say 'about the beach'? пляж",
+                "answer": "о пляже"
+            },
+            {
+                "question": "How to say 'in the rain'? дождь",
+                "answer": "в дожде"
+            },
+            {
+                "question": "How to say 'about the musician'? музыкант",
+                "answer": "о музыканте"
+            },
+            {
+                "question": "How to say 'in the bus'? автобус",
+                "answer": "в автобусе"
+            },
+            {
+                "question": "How to say 'about the station'? станция",
+                "answer": "о станции"
+            },
+            {
+                "question": "How to say 'in the farm'? ферма",
+                "answer": "на ферме"
+            },
+            {
+                "question": "How to say 'about the roof'? крыша",
+                "answer": "о крыше"
+            },
+            {
+                "question": "How to say 'in the cinema'? кинотеатр",
+                "answer": "в кинотеатре"
+            },
+            {
+                "question": "How to say 'about the police'? полиция",
+                "answer": "о полиции"
+            },
+            {
+                "question": "How to say 'in the hospital'? больница",
+                "answer": "в больнице"
+            },
+            {
+                "question": "How to say 'about the nurse'? медсестра",
+                "answer": "о медсестре"
+            },
+            {
+                "question": "How to say 'in the stadium'? стадион",
+                "answer": "на стадионе"
+            },
+            {
+                "question": "How to say 'about the engineer'? инженер",
+                "answer": "об инженере"
+            },
+            {
+                "question": "How to say 'in the desert'? пустыня",
+                "answer": "в пустыне"
+            },
+            {
+                "question": "How to say 'about the map'? карта",
+                "answer": "о карте"
+            },
+            {
+                "question": "How to say 'in the post office'? почта",
+                "answer": "на почте"
+            },
+            {
+                "question": "How to say 'about the hotel'? отель",
+                "answer": "об отеле"
+            },
+            {
+                "question": "How to say 'in the zoo'? зоопарк",
+                "answer": "в зоопарке"
+            },
+            {
+                "question": "How to say 'about the elephant'? слон",
+                "answer": "о слоне"
+            },
+            {
+                "question": "How to say 'in the wallet'? кошелёк",
+                "answer": "в кошельке"
+            },
+            {
+                "question": "How to say 'about the knife'? нож",
+                "answer": "о ноже"
+            },
+            {
+                "question": "How to say 'in the television'? телевизор",
+                "answer": "в телевизоре"
+            },
+            {
+                "question": "How to say 'about the sweater'? свитер",
+                "answer": "о свитере"
+            },
+            {
+                "question": "How to say 'in the forest'? лес",
+                "answer": "в лесу"
+            },
+            {
+                "question": "How to say 'about the backpack'? рюкзак",
+                "answer": "о рюкзаке"
+            },
+            {
+                "question": "How to say 'in the shower'? душ",
+                "answer": "в душе"
+            },
+            {
+                "question": "How to say 'about the subway'? метро",
+                "answer": "о метро"
+            },
+            {
+                "question": "How to say 'in the clock tower'? башня",
+                "answer": "в башне"
+            },
+            {
+                "question": "How to say 'about the moon'? луна",
+                "answer": "о луне"
+            },
+            {
+                "question": "How to say 'in the museum'? музей",
+                "answer": "в музее"
+            },
+            {
+                "question": "How to say 'about the jacket'? куртка",
+                "answer": "о куртке"
+            },
+            {
+                "question": "How to say 'in the notebook'? тетрадь",
+                "answer": "в тетради"
+            },
+            {
+                "question": "How to say 'about the fire'? огонь",
+                "answer": "об огне"
+            },
+            {
+                "question": "How to say 'in the telephone'? телефон",
+                "answer": "в телефоне"
+            },
+            {
+                "question": "How to say 'about the flag'? флаг",
+                "answer": "о флаге"
+            }
+           
+    ],
+    "accusative": [
+        {
+            "question": "How to say 'She took a pen'? Она взяла (ручка)",
+            "answer": "ручку"
+        },
+        {
+            "question": "How to say 'I see a mountain'? Я вижу (гора)",
+            "answer": "гору"
+        },
+        {
+            "question": "How to say 'I bought a book'? Я купил(а) (книга)",
+            "answer": "книгу"
+        },
+        {
+            "question": "How to say 'He loves his mother'? Он любит (мать)",
+            "answer": "мать"
+        },
+        {
+            "question": "How to say 'She is reading a newspaper'? Она читает (газета)",
+            "answer": "газету"
+        },
+        {
+            "question": "How to say 'I am watching a movie'? Я смотрю (фильм)",
+            "answer": "фильм"
+        },
+        {
+            "question": "How to say 'They are eating an apple'? Они едят (яблоко)",
+            "answer": "яблоко"
+        },
+        {
+            "question": "How to say 'We see a dog'? Мы видим (собака)",
+            "answer": "собаку"
+        },
+        {
+            "question": "How to say 'He called a friend'? Он позвал (друг)",
+            "answer": "друга"
+        },
+        {
+            "question": "How to say 'She is drawing a picture'? Она рисует (картина)",
+            "answer": "картину"
+        },
+        {
+            "question": "How to say 'I want tea'? Я хочу (чай)",
+            "answer": "чай"
+        },
+        {
+            "question": "How to say 'He found a letter'? Он нашёл (письмо)",
+            "answer": "письмо"
+        },
+        {
+            "question": "How to say 'She lost a key'? Она потеряла (ключ)",
+            "answer": "ключ"
+        },
+        {
+            "question": "How to say 'I am writing an article'? Я пишу (статья)",
+            "answer": "статью"
+        },
+        {
+            "question": "How to say 'He bought a car'? Он купил (машина)",
+            "answer": "машину"
+        },
+        {
+            "question": "How to say 'She loves her father'? Она любит (отец)",
+            "answer": "отца"
+        },
+        {
+            "question": "How to say 'I made a salad'? Я сделал(а) (салат)",
+            "answer": "салат"
+        },
+        {
+            "question": "How to say 'They saw a lake'? Они увидели (озеро)",
+            "answer": "озеро"
+        },
+        {
+            "question": "How to say 'He found a street'? Он нашёл (улица)",
+            "answer": "улицу"
+        },
+        {
+            "question": "How to say 'I love this city'? Я люблю (город)",
+            "answer": "город"
+        },
+        {
+            "question": "How to say 'She bought a house'? Она купила (дом)",
+            "answer": "дом"
+        },
+        {
+            "question": "How to say 'We met a teacher'? Мы встретили (учитель)",
+            "answer": "учителя"
+        },
+        {
+            "question": "How to say 'They wrote a letter'? Они написали (письмо)",
+            "answer": "письмо"
+        },
+        {
+            "question": "How to say 'He took a ball'? Он взял (мяч)",
+            "answer": "мяч"
+        },
+        {
+            "question": "How to say 'She knows this woman'? Она знает (женщина)",
+            "answer": "женщину"
+        },
+        {
+            "question": "How to say 'I am looking for a job'? Я ищу (работа)",
+            "answer": "работу"
+        },
+        {
+            "question": "How to say 'He respects his brother'? Он уважает (брат)",
+            "answer": "брата"
+        },
+        {
+            "question": "How to say 'She remembered a word'? Она вспомнила (слово)",
+            "answer": "слово"
+        },
+        {
+            "question": "How to say 'We bought a table'? Мы купили (стол)",
+            "answer": "стол"
+        },
+        {
+            "question": "How to say 'They took a picture'? Они взяли (фотография)",
+            "answer": "фотографию"
+        },
+        {
+            "question": "How to say 'She cleaned the room'? Она убрала (комната)",
+            "answer": "комнату"
+        },
+        {
+            "question": "How to say 'I wrote a message'? Я написал(а) (сообщение)",
+            "answer": "сообщение"
+        },
+        {
+            "question": "How to say 'He heard a song'? Он услышал (песня)",
+            "answer": "песню"
+        },
+        {
+            "question": "How to say 'She sent a postcard'? Она отправила (открытка)",
+            "answer": "открытку"
+        },
+        {
+            "question": "How to say 'We read a novel'? Мы читали (роман)",
+            "answer": "роман"
+        },
+        {
+            "question": "How to say 'He is building a bridge'? Он строит (мост)",
+            "answer": "мост"
+        },
+        {
+            "question": "How to say 'She learned a poem'? Она выучила (стих)",
+            "answer": "стих"
+        },
+        {
+            "question": "How to say 'I drew a house'? Я нарисовал(а) (дом)",
+            "answer": "дом"
+        },
+        {
+            "question": "How to say 'They heard a sound'? Они услышали (звук)",
+            "answer": "звук"
+        },
+        {
+            "question": "How to say 'He saw a fox'? Он увидел (лиса)",
+            "answer": "лису"
+        },
+        {
+            "question": "How to say 'She made a cake'? Она сделала (торт)",
+            "answer": "торт"
+        },
+        {
+            "question": "How to say 'We visited a museum'? Мы посетили (музей)",
+            "answer": "музей"
+        },
+        {
+            "question": "How to say 'They played a game'? Они играли в (игра)",
+            "answer": "игру"
+        },
+        {
+            "question": "How to say 'He met a guest'? Он встретил (гость)",
+            "answer": "гостя"
+        },
+        {
+            "question": "How to say 'She opened a window'? Она открыла (окно)",
+            "answer": "окно"
+        },
+        {
+            "question": "How to say 'I called a doctor'? Я вызвал(а) (врач)",
+            "answer": "врача"
+        },
+          {
+              "question": "How to say 'He bought a chair'? Он купил (стул)",
+              "answer": "стул"
+          },
+          {
+              "question": "How to say 'She saw a star'? Она увидела (звезда)",
+              "answer": "звезду"
+          },
+          {
+              "question": "How to say 'They ate bread'? Они съели (хлеб)",
+              "answer": "хлеб"
+          },
+          {
+              "question": "How to say 'I fixed the car'? Я починил(а) (машина)",
+              "answer": "машину"
+          },
+          {
+              "question": "How to say 'We invited a guest'? Мы пригласили (гость)",
+              "answer": "гостя"
+          },
+          {
+              "question": "How to say 'She found a cat'? Она нашла (кошка)",
+              "answer": "кошку"
+          },
+          {
+              "question": "How to say 'He met a friend'? Он встретил (подруга)",
+              "answer": "подругу"
+          },
+          {
+              "question": "How to say 'I ordered a coffee'? Я заказал(а) (кофе)",
+              "answer": "кофе"
+          },
+          {
+              "question": "How to say 'They washed the floor'? Они вымыли (пол)",
+              "answer": "пол"
+          },
+          {
+              "question": "How to say 'We heard a bell'? Мы услышали (колокол)",
+              "answer": "колокол"
+          },
+          {
+              "question": "How to say 'She drew a sun'? Она нарисовала (солнце)",
+              "answer": "солнце"
+          },
+          {
+              "question": "How to say 'He read a letter'? Он прочитал (письмо)",
+              "answer": "письмо"
+          },
+          {
+              "question": "How to say 'I watched a cartoon'? Я посмотрел(а) (мультфильм)",
+              "answer": "мультфильм"
+          },
+          {
+              "question": "How to say 'They visited a park'? Они посетили (парк)",
+              "answer": "парк"
+          },
+          {
+              "question": "How to say 'She wrote a poem'? Она написала (стих)",
+              "answer": "стих"
+          },
+          {
+              "question": "How to say 'We lost a key'? Мы потеряли (ключ)",
+              "answer": "ключ"
+          },
+          {
+              "question": "How to say 'He saw a lake'? Он увидел (озеро)",
+              "answer": "озеро"
+          },
+          {
+              "question": "How to say 'She kissed a child'? Она поцеловала (ребёнок)",
+              "answer": "ребёнка"
+          },
+          {
+              "question": "How to say 'I carried a bag'? Я нёс(ла) (сумка)",
+              "answer": "сумку"
+          },
+          {
+              "question": "How to say 'They cleaned the table'? Они убрали (стол)",
+              "answer": "стол"
+          },
+          {
+              "question": "How to say 'We bought a sofa'? Мы купили (диван)",
+              "answer": "диван"
+          },
+          {
+              "question": "How to say 'He took a plate'? Он взял (тарелка)",
+              "answer": "тарелку"
+          },
+          {
+              "question": "How to say 'She helped her sister'? Она помогла (сестра)",
+              "answer": "сестру"
+          },
+          {
+              "question": "How to say 'I made tea'? Я сделал(а) (чай)",
+              "answer": "чай"
+          },
+          {
+              "question": "How to say 'They watched a performance'? Они посмотрели (спектакль)",
+              "answer": "спектакль"
+          },
+          {
+              "question": "How to say 'We saw a rainbow'? Мы увидели (радуга)",
+              "answer": "радугу"
+          },
+          {
+              "question": "How to say 'He met a doctor'? Он встретил (врач)",
+              "answer": "врача"
+          },
+          {
+              "question": "How to say 'She called a police officer'? Она позвонила (полицейский)",
+              "answer": "полицейского"
+          },
+          {
+              "question": "How to say 'I ate soup'? Я съел(а) (суп)",
+              "answer": "суп"
+          },
+          {
+              "question": "How to say 'They washed a glass'? Они вымыли (стакан)",
+              "answer": "стакан"
+          },
+          {
+              "question": "How to say 'She saw a bird'? Она увидела (птица)",
+              "answer": "птицу"
+          },
+          {
+              "question": "How to say 'We brought a gift'? Мы принесли (подарок)",
+              "answer": "подарок"
+          },
+          {
+              "question": "How to say 'He opened a box'? Он открыл (коробка)",
+              "answer": "коробку"
+          },
+          {
+              "question": "How to say 'She is holding a toy'? Она держит (игрушка)",
+              "answer": "игрушку"
+          },
+          {
+              "question": "How to say 'I bought flowers'? Я купил(а) (цветы)",
+              "answer": "цветы"
+          },
+          {
+              "question": "How to say 'They heard music'? Они услышали (музыка)",
+              "answer": "музыку"
+          },
+          {
+              "question": "How to say 'We saw a butterfly'? Мы увидели (бабочка)",
+              "answer": "бабочку"
+          },
+          {
+              "question": "How to say 'He found money'? Он нашёл (деньги)",
+              "answer": "деньги"
+          },
+          {
+              "question": "How to say 'She likes chocolate'? Она любит (шоколад)",
+              "answer": "шоколад"
+          },
+          {
+              "question": "How to say 'I respect my boss'? Я уважаю (начальник)",
+              "answer": "начальника"
+          },
+          {
+              "question": "How to say 'They cleaned a mirror'? Они вымыли (зеркало)",
+              "answer": "зеркало"
+          },
+          {
+              "question": "How to say 'She prepared a lesson'? Она подготовила (урок)",
+              "answer": "урок"
+          },
+          {
+              "question": "How to say 'We saw a deer'? Мы увидели (олень)",
+              "answer": "оленя"
+          },
+          {
+              "question": "How to say 'He read a story'? Он прочитал (рассказ)",
+              "answer": "рассказ"
+          },
+          {
+              "question": "How to say 'She played a role'? Она сыграла (роль)",
+              "answer": "роль"
+          },
+          {
+              "question": "How to say 'I watched a match'? Я посмотрел(а) (матч)",
+              "answer": "матч"
+          },
+          {
+              "question": "How to say 'They lost a game'? Они проиграли (игра)",
+              "answer": "игру"
+          },
+            {
+                "question": "How to say 'She took a notebook'? Она взяла (тетрадь)",
+                "answer": "тетрадь"
+            },
+            {
+                "question": "How to say 'He wrote a message'? Он написал (сообщение)",
+                "answer": "сообщение"
+            },
+            {
+                "question": "How to say 'We visited a museum'? Мы посетили (музей)",
+                "answer": "музей"
+            },
+            {
+                "question": "How to say 'They saw a rabbit'? Они увидели (кролик)",
+                "answer": "кролика"
+            },
+            {
+                "question": "How to say 'I found a mistake'? Я нашёл(ла) (ошибка)",
+                "answer": "ошибку"
+            },
+            {
+                "question": "How to say 'She bought a phone'? Она купила (телефон)",
+                "answer": "телефон"
+            },
+            {
+                "question": "How to say 'He brought a newspaper'? Он принёс (газета)",
+                "answer": "газету"
+            },
+            {
+                "question": "How to say 'We took a taxi'? Мы взяли (такси)",
+                "answer": "такси"
+            },
+            {
+                "question": "How to say 'They drank milk'? Они выпили (молоко)",
+                "answer": "молоко"
+            },
+            {
+                "question": "How to say 'I love my dog'? Я люблю (собака)",
+                "answer": "собаку"
+            },
+            {
+                "question": "How to say 'She lost her passport'? Она потеряла (паспорт)",
+                "answer": "паспорт"
+            },
+            {
+                "question": "How to say 'He fixed a watch'? Он починил (часы)",
+                "answer": "часы"
+            },
+            {
+                "question": "How to say 'We saw an elephant'? Мы увидели (слон)",
+                "answer": "слона"
+            },
+            {
+                "question": "How to say 'They invited a neighbor'? Они пригласили (сосед)",
+                "answer": "соседа"
+            },
+            {
+                "question": "How to say 'I made a decision'? Я принял(а) (решение)",
+                "answer": "решение"
+            },
+            {
+                "question": "How to say 'She drew a tree'? Она нарисовала (дерево)",
+                "answer": "дерево"
+            },
+            {
+                "question": "How to say 'He played a song'? Он сыграл (песня)",
+                "answer": "песню"
+            },
+            {
+                "question": "How to say 'We planted a flower'? Мы посадили (цветок)",
+                "answer": "цветок"
+            },
+            {
+                "question": "How to say 'They saw a cloud'? Они увидели (облако)",
+                "answer": "облако"
+            },
+            {
+                "question": "How to say 'I respect my teacher'? Я уважаю (учитель)",
+                "answer": "учителя"
+            },
+            {
+                "question": "How to say 'She called a friend'? Она позвонила (друг)",
+                "answer": "друга"
+            },
+            {
+                "question": "How to say 'He met a musician'? Он встретил (музыкант)",
+                "answer": "музыканта"
+            },
+            {
+                "question": "How to say 'We cooked fish'? Мы приготовили (рыба)",
+                "answer": "рыбу"
+            },
+            {
+                "question": "How to say 'They washed the dishes'? Они вымыли (тарелки)",
+                "answer": "тарелки"
+            },
+            {
+                "question": "How to say 'I took a photo'? Я сделал(а) (фотография)",
+                "answer": "фотографию"
+            },
+            {
+                "question": "How to say 'She read a novel'? Она прочитала (роман)",
+                "answer": "роман"
+            },
+            {
+                "question": "How to say 'He repaired a lamp'? Он починил (лампа)",
+                "answer": "лампу"
+            },
+            {
+                "question": "How to say 'We played football'? Мы играли в (футбол)",
+                "answer": "футбол"
+            },
+            {
+                "question": "How to say 'They watched a comedy'? Они посмотрели (комедия)",
+                "answer": "комедию"
+            },
+            {
+                "question": "How to say 'I ordered a pizza'? Я заказал(а) (пицца)",
+                "answer": "пиццу"
+            },
+            {
+                "question": "How to say 'She caught a butterfly'? Она поймала (бабочка)",
+                "answer": "бабочку"
+            },
+            {
+                "question": "How to say 'He saw a squirrel'? Он увидел (белка)",
+                "answer": "белку"
+            },
+            {
+                "question": "How to say 'We baked bread'? Мы испекли (хлеб)",
+                "answer": "хлеб"
+            },
+            {
+                "question": "How to say 'They heard a noise'? Они услышали (шум)",
+                "answer": "шум"
+            },
+            {
+                "question": "How to say 'I found a wallet'? Я нашёл(ла) (кошелёк)",
+                "answer": "кошелёк"
+            },
+            {
+                "question": "How to say 'She touched the table'? Она потрогала (стол)",
+                "answer": "стол"
+            },
+            {
+                "question": "How to say 'He carried a chair'? Он нёс (стул)",
+                "answer": "стул"
+            },
+            {
+                "question": "How to say 'We fixed a roof'? Мы починили (крыша)",
+                "answer": "крышу"
+            },
+            {
+                "question": "How to say 'They built a house'? Они построили (дом)",
+                "answer": "дом"
+            },
+            {
+                "question": "How to say 'I saw a fox'? Я увидел(а) (лиса)",
+                "answer": "лису"
+            },
+            {
+                "question": "How to say 'She adopted a kitten'? Она приютила (котёнок)",
+                "answer": "котёнка"
+            },
+            {
+                "question": "How to say 'He sold a bike'? Он продал (велосипед)",
+                "answer": "велосипед"
+            },
+            {
+                "question": "How to say 'We cleaned a room'? Мы убрали (комната)",
+                "answer": "комнату"
+            },
+            {
+                "question": "How to say 'They opened a window'? Они открыли (окно)",
+                "answer": "окно"
+            },
+            {
+                "question": "How to say 'I prepared a speech'? Я подготовил(а) (речь)",
+                "answer": "речь"
+            },
+            {
+                "question": "How to say 'She painted a portrait'? Она нарисовала (портрет)",
+                "answer": "портрет"
+            },
+            {
+                "question": "How to say 'He wrote a letter'? Он написал (письмо)",
+                "answer": "письмо"
+            }            
+    ]
+}
+  

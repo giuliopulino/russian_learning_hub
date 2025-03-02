@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Chef Game</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; }
+    .procedures, .drop-zone { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 20px; }
+    .procedure { padding: 10px; border: 1px solid #333; cursor: pointer; background-color: #f0f0f0; }
+    .drop-zone { 
+      min-height: 40px; 
+      border: 2px dashed #333; 
+      padding: 10px; 
+      margin: 10px auto; 
+      width: 50%; 
+      min-height: 100px; 
+      display: flex; 
+      flex-direction: column; 
+      align-items: center; 
+    }
+    #timer { font-size: 1.2em; font-weight: bold; }
+    .disabled { pointer-events: none; opacity: 0.5; }
+
+    /* Styling the buttons */
+    button {
+      padding: 15px 30px;
+      font-size: 18px;
+      font-weight: bold;
+      border: none;
+      cursor: pointer;
+      border-radius: 8px;
+      margin: 10px;
+    }
+    #submitBtn {
+      background-color: #28a745;
+      color: white;
+    }
+    #submitBtn:hover {
+      background-color: #218838;
+    }
+    #restartButton {
+      background-color: #dc3545;
+      color: white;
+      display: none;
+      margin-top: 20px;
+    }
+    #restartButton:hover {
+      background-color: #c82333;
+    }
+
+    /* Center restart button */
+    .restart-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Russian Learning Hub</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="exercises.html">Exercises</a></li>
+          <li class="nav-item"><a class="nav-link" href="stories.html">Stories</a></li>
+          <li class="nav-item"><a class="nav-link" href="games.html">Games</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Game Content -->
+  <h1>Chef Game</h1>
+  <div id="startScreen">
+    <p>Welcome to the Chef Game! Click on the correct ingredients to complete the recipe.</p>
+    <button onclick="startGame()">START GAME</button>
+  </div>
+  
+  <div id="gameScreen" style="display: none;">
+    <h2 id="level"></h2>
+    <p id="recipe"></p>
+    <p id="instructions"></p>
+    <p id="timer">Time left: <span id="time"></span> seconds</p>
+    <div class="procedures" id="procedures"></div>
+    <h3>Click the correct ingredients:</h3>
+    <div class="drop-zone" id="dropZone"></div>
+    <button id="submitBtn" onclick="submitSelection()">Submit</button>
+    <p id="result"></p>
+    <div class="restart-container">
+      <button id="restartButton" onclick="restartGame()">Restart</button>
+    </div>
+  </div>
+  
+  <script>
+    let recipes = {};
+    let currentLevel = 1;
+    // Define level settings: number of recipes and time per recipe
+    let levels = {
+      1: { recipesCount: 5, time: 60 },
+      2: { recipesCount: 5, time: 45 },
+      3: { recipesCount: 7, time: 40 },
+      4: { recipesCount: 10, time: 35 },
+      5: { recipesCount: 10, time: 25 },
+      6: { recipesCount: 20, time: 30 } // MasterChef level
+    };
+    let currentRecipeIndex = 0;
+    let selectedIngredients = [];
+    let timeLeft;
+    let timer;
+    let currentRecipe; // Store the current recipe for validation
+
+    async function fetchRecipes() {
+      const response = await fetch('chef_game_recipes.json');
+      recipes = await response.json();
+    }
+    
+    async function startGame() {
+      await fetchRecipes();
+      document.getElementById("startScreen").style.display = "none";
+      document.getElementById("gameScreen").style.display = "block";
+      currentRecipeIndex = 0;
+      currentLevel = 1;
+      loadLevel();
+    }
+
+    function loadLevel() {
+      document.getElementById("level").textContent = `Level ${currentLevel}`;
+      nextRecipe();
+    }
+
+    function nextRecipe() {
+      document.getElementById("result").textContent = ""; // Hide previous message
+
+      if (currentRecipeIndex >= levels[currentLevel].recipesCount) {
+        currentLevel++;
+        if (!levels[currentLevel]) {
+          alert("Congratulations! You completed all levels!");
+          clearInterval(timer);
+          return;
+        }
+        alert(`Congratulations! You are moving to Level ${currentLevel}`);
+        currentRecipeIndex = 0;
+        loadLevel();
+        return;
+      }
+      
+      let recipeList = recipes.levels[currentLevel];
+      if (!recipeList || recipeList.length === 0) {
+        alert("No recipes available for this level.");
+        clearInterval(timer);
+        return;
+      }
+      // Choose a random recipe from the current level's list and store it
+      currentRecipe = recipeList[Math.floor(Math.random() * recipeList.length)];
+
+      document.getElementById("recipe").textContent = `Recipe: ${currentRecipe.name}`;
+      document.getElementById("instructions").textContent = `Instructions: ${currentRecipe.instructions}`;
+      
+      // Combine ingredients and distractors, then shuffle
+      let allIngredients = [...currentRecipe.ingredients, ...currentRecipe.distractors].sort(() => Math.random() - 0.5);
+      let proceduresContainer = document.getElementById("procedures");
+      proceduresContainer.innerHTML = "";
+      
+      allIngredients.forEach(ingredient => {
+        let div = document.createElement("div");
+        div.textContent = ingredient.russian;
+        div.classList.add("procedure");
+        div.onclick = () => selectIngredient(div, ingredient.english);
+        proceduresContainer.appendChild(div);
+      });
+      
+      document.getElementById("dropZone").innerHTML = "";
+      selectedIngredients = [];
+      timeLeft = levels[currentLevel].time;
+      document.getElementById("time").textContent = timeLeft;
+      clearInterval(timer);
+      timer = setInterval(updateTimer, 1000);
+    }
+
+    function selectIngredient(element, englishName) {
+      if (selectedIngredients.includes(englishName)) return;
+      
+      let dropZone = document.getElementById("dropZone");
+      let droppedItem = document.createElement("div");
+      droppedItem.textContent = element.textContent;
+      droppedItem.classList.add("procedure");
+      droppedItem.onclick = () => removeIngredient(droppedItem, englishName);
+      dropZone.appendChild(droppedItem);
+      
+      selectedIngredients.push(englishName);
+    }
+
+    function removeIngredient(element, englishName) {
+      selectedIngredients = selectedIngredients.filter(item => item !== englishName);
+      element.remove();
+    }
+
+    function submitSelection() {
+      document.getElementById("result").textContent = ""; // Hide previous result message
+
+      let correctIngredients = currentRecipe.ingredients.map(ing => ing.english);
+
+      if (JSON.stringify(selectedIngredients.sort()) === JSON.stringify(correctIngredients.sort())) {
+        document.getElementById("result").textContent = "Correct! Next recipe...";
+        currentRecipeIndex++;
+        setTimeout(() => {
+          document.getElementById("result").textContent = ""; // Hide message after 1 sec
+          nextRecipe();
+        }, 1000);
+      } else {
+        document.getElementById("result").textContent = "Wrong selection! Try again.";
+      }
+    }
+
+    function updateTimer() {
+      timeLeft--;
+      document.getElementById("time").textContent = timeLeft;
+      if (timeLeft <= 0) {
+        clearInterval(timer);
+        document.getElementById("result").textContent = "Time's up! Game over.";
+        document.getElementById("restartButton").style.display = "block";
+        disableGame();
+      }
+    }
+
+    function disableGame() {
+      document.getElementById("procedures").classList.add("disabled");
+      document.getElementById("dropZone").classList.add("disabled");
+      document.getElementById("submitBtn").disabled = true;
+    }
+
+    function restartGame() {
+      location.reload();
+    }
+  </script>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-light text-center py-3 mt-5">
+    <p>Made with ❤️ by Giulio</p>
+    <p>Any feedback or suggestions? Contact me on
+      <a href="https://mt.linkedin.com/in/giulio-pulino-64a713192" class="text-light" target="_blank">LinkedIn</a>
+    </p>
+  </footer>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="chef_game.js"></script>
+</body>
+</html>

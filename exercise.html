@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercises</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+            <a class="navbar-brand" href="index.html">Russian Learning Hub</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav ms-auto">
+                    <li class="nav-item"><a class="nav-link" href="exercises.html">Exercises</a></li>
+                    <li class="nav-item"><a class="nav-link" href="stories.html">Stories</a></li>
+                    <li class="nav-item"><a class="nav-link" href="games.html">Games</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Exercises Container -->
+    <main>
+        <div class="container mt-5">
+            <h1 id="level-title">Exercises</h1>
+            <p class="lead">Practice your Russian skills below and submit your answers.</p>
+            
+            <form id="exercise-form">
+                <div id="exercise-container" class="mt-4"></div>
+                <button type="submit" class="btn btn-success mt-3">Submit Answers</button>
+            </form>
+
+            <div id="results-container" class="mt-4"></div>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-light text-center py-3 mt-5">
+        <p>Made with ❤️ by Giulio</p>
+        <p>Any feedback or suggestions? Contact me on 
+            <a href="https://mt.linkedin.com/in/giulio-pulino-64a713192" class="text-light" target="_blank">LinkedIn</a>
+        </p>
+    </footer>
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- JavaScript Logic -->
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            loadExercises(); // Load exercises on page load
+        });
+
+        function loadExercises() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const level = urlParams.get("level");
+
+            if (!level) {
+                document.getElementById("level-title").textContent = "Error: No level selected!";
+                return;
+            }
+
+            document.getElementById("level-title").textContent = `Exercises - Level ${level}`;
+            const jsonFile = `exercises_${level.toLowerCase()}.json`;
+
+            fetch(jsonFile)
+                .then(response => response.json())
+                .then(data => {
+                    let selectedExercises = [];
+                    const maxPerCategory = 5;
+
+                    for (const category in data) {
+                        if (Array.isArray(data[category])) {
+                            let shuffledCategory = data[category].sort(() => 0.5 - Math.random()).slice(0, maxPerCategory);
+                            selectedExercises = selectedExercises.concat(shuffledCategory);
+                        }
+                    }
+
+                    selectedExercises = selectedExercises.sort(() => 0.5 - Math.random()).slice(0, 30);
+
+                    if (selectedExercises.length === 0) {
+                        console.error("No exercises found!");
+                        return;
+                    }
+
+                    const container = document.getElementById("exercise-container");
+                    container.innerHTML = ""; // Clear previous exercises
+
+                    selectedExercises.forEach((exercise, index) => {
+                        const exerciseElement = document.createElement("div");
+                        exerciseElement.classList.add("exercise-item", "p-3", "mb-3", "border", "rounded");
+
+                        exerciseElement.innerHTML = `
+                            <strong>Exercise ${index + 1}:</strong> ${exercise.question} 
+                            <input type="text" class="form-control mt-2" name="answer-${index}" data-correct="${exercise.answer}">
+                        `;
+
+                        container.appendChild(exerciseElement);
+                    });
+
+                    document.getElementById("exercise-form").addEventListener("submit", function(event) {
+                        event.preventDefault();
+                        checkAnswers();
+                    });
+                })
+                .catch(error => console.error("Error loading exercises:", error));
+        }
+
+        function checkAnswers() {
+            const inputs = document.querySelectorAll("#exercise-form input");
+            let resultsHTML = "<h2>Results:</h2><ul>";
+
+            inputs.forEach((input, index) => {
+                const userAnswer = input.value.trim().toLowerCase();
+                const correctAnswer = input.dataset.correct.toLowerCase();
+                const isCorrect = userAnswer === correctAnswer;
+
+                resultsHTML += `<li>Exercise ${index + 1}: 
+                    <strong>${isCorrect ? "✅ Correct" : "❌ Incorrect"}</strong> 
+                    (Your answer: <span class="${isCorrect ? "text-success" : "text-danger"}">${userAnswer || "No answer"}</span>, 
+                    Correct: <span class="text-primary">${correctAnswer}</span>)
+                </li>`;
+            });
+
+            resultsHTML += "</ul>";
+
+            // Add Restart Button
+            resultsHTML += `<button id="restart-btn" class="btn btn-primary mt-3">Try New Exercises</button>`;
+
+            document.getElementById("results-container").innerHTML = resultsHTML;
+
+            // Add event listener to restart button
+            document.getElementById("restart-btn").addEventListener("click", () => {
+                loadExercises(); // Reload new exercises
+                document.getElementById("results-container").innerHTML = ""; // Clear results
+            });
+        }
+    </script>
+
+</body>
+</html>

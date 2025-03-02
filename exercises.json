@@ -1,0 +1,23 @@
+{
+    "A1": [
+        { "question": "Translate: Я люблю читать книги.", "answer": "I love reading books" },
+        { "question": "Fill in the blank: У меня есть ___ (a dog).", "answer": "собака" },
+        { "question": "Choose the correct verb: Он ___ (is eating) суп.", "answer": "ест" },
+        { "question": "What is the opposite of 'большой'?", "answer": "маленький" },
+        { "question": "Translate: Как тебя зовут?", "answer": "What is your name?" }
+    ],
+    "A2": [
+        { "question": "Translate: Я хочу поехать в Москву.", "answer": "I want to go to Moscow" },
+        { "question": "Fill in the blank: Она ___ (was watching) телевизор.", "answer": "смотрела" },
+        { "question": "What case is used in 'Я вижу машину'?", "answer": "accusative" },
+        { "question": "Translate: Где находится вокзал?", "answer": "Where is the train station?" }
+    ],
+    "B1": [
+        { "question": "Translate: Я прочитал интересную книгу.", "answer": "I read an interesting book" },
+        { "question": "What is the difference between 'потому что' and 'поэтому'?", "answer": "потому что means 'because', поэтому means 'therefore'" },
+        { "question": "Write a sentence using the word 'несмотря на'.", "answer": "Несмотря на дождь, мы пошли гулять" }
+    ]
+}
+
+
+
