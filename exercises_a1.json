@@ -2907,6 +2907,68 @@
                 "question": "How to say 'He wrote a letter'? Он написал (письмо)",
                 "answer": "письмо"
             }            
+    ],
+    "instrumental": [
+        [
+            {"question": "How to say 'He is playing with a ball'? Он играет с (мяч)", "answer": "мячом"},
+            {"question": "How to say 'She is working with a laptop'? Она работает с (ноутбук)", "answer": "ноутбуком"},
+            {"question": "How to say 'They are traveling with a car'? Они путешествуют с (машина)", "answer": "машиной"}
+            {"question": "How to say 'I am studying with a book'? Я учусь с (книга)", "answer": "книгой"},
+            {"question": "How to say 'We are eating with a spoon'? Мы едим с (ложка)", "answer": "ложкой"},
+            {"question": "How to say 'She is painting with a brush'? Она рисует с (кисть)", "answer": "кистью"},
+            {"question": "How to say 'He is cooking with a pan'? Он готовит с (сковорода)", "answer": "сковородой"},
+            {"question": "How to say 'I am going to the office with a colleague'? Я иду в офис с (коллега)", "answer": "коллегой"},
+            {"question": "How to say 'They are talking with the teacher'? Они разговаривают с (учитель)", "answer": "учителем"},
+            {"question": "How to say 'She is walking with a dog'? Она гуляет с (собака)", "answer": "собакой"},
+            {"question": "How to say 'He is playing chess with a friend'? Он играет в шахматы с (друг)", "answer": "другом"},
+            {"question": "How to say 'She is dancing with a partner'? Она танцует с (партнер)", "answer": "партнером"},
+            {"question": "How to say 'We are writing with a pen'? Мы пишем с (ручка)", "answer": "ручкой"},
+            {"question": "How to say 'I am driving with a map'? Я еду с (карта)", "answer": "картой"},
+            {"question": "How to say 'He is talking on the phone with a friend'? Он разговаривает по телефону с (друг)", "answer": "другом"},
+            {"question": "How to say 'They are studying with a teacher'? Они учатся с (учитель)", "answer": "учителем"},
+            {"question": "How to say 'She is sitting with a pillow'? Она сидит с (подушка)", "answer": "подушкой"},
+            {"question": "How to say 'We are eating with a fork'? Мы едим с (вилка)", "answer": "вилкой"},
+            {"question": "How to say 'He is cutting with a knife'? Он режет с (нож)", "answer": "ножом"},            
+            {"question": "How to say 'I am drawing with chalk'? Я рисую с (мел)", "answer": "мелом"},
+            {"question": "How to say 'They are playing the piano'? Они играют на (пианино)", "answer": "пианино"},
+            {"question": "How to say 'She is singing with a microphone'? Она поет с (микрофон)", "answer": "микрофоном"},
+            {"question": "How to say 'He is traveling with a suitcase'? Он путешествует с (чемодан)", "answer": "чемоданом"},
+            {"question": "How to say 'I am working with a computer'? Я работаю с (компьютер)", "answer": "компьютером"},
+            {"question": "How to say 'We are reading with a flashlight'? Мы читаем с (фонарь)", "answer": "фонарем"},
+            {"question": "How to say 'They are playing with toys'? Они играют с (игрушка)", "answer": "игрушками"},
+            {"question": "How to say 'She is swimming with goggles'? Она плавает с (маска)", "answer": "маской"},
+            {"question": "How to say 'He is writing with a pencil'? Он пишет с (карандаш)", "answer": "карандашом"},
+            {"question": "How to say 'They are eating with their hands'? Они едят с (рука)", "answer": "руками"},
+            {"question": "How to say 'She is cooking with a recipe'? Она готовит по (рецепт)", "answer": "рецептом"},
+            {"question": "How to say 'He is listening to music with headphones'? Он слушает музыку с (наушник)", "answer": "наушниками"},
+            {"question": "How to say 'I am cleaning with a vacuum cleaner'? Я убираю с (пылесос)", "answer": "пылесосом"},
+            {"question": "How to say 'We are walking with a guide'? Мы гуляем с (гид)", "answer": "гидом"},
+            {"question": "How to say 'She is writing with a marker'? Она пишет с (маркер)", "answer": "маркером"},
+            {"question": "How to say 'They are talking with a translator'? Они разговаривают с (переводчик)", "answer": "переводчиком"},
+            {"question": "How to say 'He is working with a tool'? Он работает с (инструмент)", "answer": "инструментом"},
+            {"question": "How to say 'She is running with shoes'? Она бегает в (обувь)", "answer": "обуви"},
+            {"question": "How to say 'We are having dinner with wine'? Мы ужинаем с (вино)", "answer": "вином"},
+            {"question": "How to say 'He is speaking with an accent'? Он говорит с (акцент)", "answer": "акцентом"},
+            {"question": "How to say 'She is drawing with markers'? Она рисует с (маркер)", "answer": "маркерами"},
+            {"question": "How to say 'I am sitting with a cushion'? Я сижу с (подушка)", "answer": "подушкой"},
+            {"question": "How to say 'They are arriving with a bus'? Они приезжают на (автобус)", "answer": "автобусе"},
+            {"question": "How to say 'He is cutting with scissors'? Он режет с (ножницы)", "answer": "ножницами"},
+            {"question": "How to say 'She is eating with a plate'? Она ест с (тарелка)", "answer": "тарелкой"},
+            {"question": "How to say 'We are enjoying with a book'? Мы наслаждаемся с (книга)", "answer": "книгой"}            
+            {"question": "How to say 'They are playing with cards'? Они играют с (карта)", "answer": "картами"},
+            {"question": "How to say 'I am studying with a notebook'? Я учусь с (тетрадь)", "answer": "тетрадью"},
+            {"question": "How to say 'He is riding with a bike'? Он едет на (велосипед)", "answer": "велосипеде"},
+            {"question": "How to say 'She is cleaning with a broom'? Она убирает с (метла)", "answer": "метлой"},
+            {"question": "How to say 'We are talking with a friend'? Мы разговариваем с (друг)", "answer": "другом"},
+            {"question": "How to say 'They are working with a machine'? Они работают с (машина)", "answer": "машиной"},
+            {"question": "How to say 'He is studying with a tablet'? Он учится с (планшет)", "answer": "планшетом"},
+            {"question": "How to say 'She is playing the guitar'? Она играет на (гитара)", "answer": "гитаре"}
+        ]
+        
+
+
+
+
     ]
 }
   
