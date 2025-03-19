@@ -2909,7 +2909,6 @@
             }            
     ],
     "instrumental": [
-        [
             {"question": "How to say 'He is playing with a ball'? Он играет с (мяч)", "answer": "мячом"},
             {"question": "How to say 'She is working with a laptop'? Она работает с (ноутбук)", "answer": "ноутбуком"},
             {"question": "How to say 'They are traveling with a car'? Они путешествуют с (машина)", "answer": "машиной"}
@@ -2963,12 +2962,6 @@
             {"question": "How to say 'They are working with a machine'? Они работают с (машина)", "answer": "машиной"},
             {"question": "How to say 'He is studying with a tablet'? Он учится с (планшет)", "answer": "планшетом"},
             {"question": "How to say 'She is playing the guitar'? Она играет на (гитара)", "answer": "гитаре"}
-        ]
-        
-
-
-
-
     ]
 }
   
