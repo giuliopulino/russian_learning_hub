@@ -548,33 +548,34 @@
             ]
           },
           {
-            "name": "Duck à l'Orange",
-            "instructions": "Roast duck, reduce orange sauce, baste with glaze, serve with sauce.",
+            "name": "Chicken Alfredo",
+            "instructions": "Cook chicken, make creamy sauce, toss with pasta, and serve.",
             "ingredients": [
-              { "english": "Roast duck", "russian": "Запекать утку" },
-              { "english": "Reduce orange sauce", "russian": "Уварить апельсиновый соус" },
-              { "english": "Baste with glaze", "russian": "Смазывать глазурью" },
-              { "english": "Serve with sauce", "russian": "Подавать с соусом" }
+              { "english": "Cook chicken", "russian": "Приготовить курицу" },
+              { "english": "Make creamy sauce", "russian": "Приготовить кремовый соус" },
+              { "english": "Toss with pasta", "russian": "Смешать с пастой" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Boil potatoes", "russian": "Варить картошку" },
-              { "english": "Toast bread", "russian": "Подрумянить хлеб" },
-              { "english": "Peel apples", "russian": "Чистить яблоки" }
+              { "english": "Cut chicken", "russian": "Нарезать курицу" },
+              { "english": "Boil pasta", "russian": "Варить пасту" },
+              { "english": "Fry chicken", "russian": "Жарить курицу" }
             ]
           },
           {
-            "name": "Mille-Feuille",
-            "instructions": "Bake puff pastry layers, prepare pastry cream, assemble with layers, dust with sugar.",
+            "name": "Carbonara",
+            "instructions": "Cook pasta, fry bacon, make egg and cheese sauce, toss together, and serve.",
             "ingredients": [
-              { "english": "Bake puff pastry layers", "russian": "Испечь слои слоёного теста" },
-              { "english": "Prepare pastry cream", "russian": "Приготовить заварной крем" },
-              { "english": "Assemble with layers", "russian": "Собрать слоями" },
-              { "english": "Dust with sugar", "russian": "Посыпать сахаром" }
+              { "english": "Cook pasta", "russian": "Варить пасту" },
+              { "english": "Fry bacon", "russian": "Жарить бекон" },
+              { "english": "Make egg and cheese sauce", "russian": "Приготовить соус из яиц и сыра" },
+              { "english": "Toss together", "russian": "Перемешать" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Grill steak", "russian": "Жарить стейк" },
-              { "english": "Boil rice", "russian": "Варить рис" },
-              { "english": "Fry fish", "russian": "Жарить рыбу" }
+              { "english": "Boil eggs", "russian": "Варить яйца" },
+              { "english": "Grill bacon", "russian": "Гриль бекон" },
+              { "english": "Whisk cheese", "russian": "Взбить сыр" }
             ]
           },
             {
@@ -593,18 +594,18 @@
               ]
             },
             {
-              "name": "Beef Bourguignon",
-              "instructions": "Brown beef, deglaze with red wine, simmer with aromatics, serve with pearl onions.",
+              "name": "Spaghetti Bolognese",
+              "instructions": "Cook pasta, make meat sauce, toss together, and serve.",
               "ingredients": [
-                { "english": "Brown beef", "russian": "Обжарить говядину" },
-                { "english": "Deglaze with red wine", "russian": "Деглазировать красным вином" },
-                { "english": "Simmer with aromatics", "russian": "Тушить с ароматическими травами" },
-                { "english": "Serve with pearl onions", "russian": "Подавать с жемчужным луком" }
+                { "english": "Cook pasta", "russian": "Варить пасту" },
+                { "english": "Make meat sauce", "russian": "Приготовить мясной соус" },
+                { "english": "Toss together", "russian": "Перемешать" },
+                { "english": "Serve", "russian": "Подавать" }
               ],
               "distractors": [
-                { "english": "Temper chocolate", "russian": "Темперировать шоколад" },
-                { "english": "Proof enriched dough", "russian": "Оставить дрожжевое тесто на расстойку" },
-                { "english": "Reduce citrus emulsion", "russian": "Уварить цитрусовую эмульсию" }
+                { "english": "Boil meat", "russian": "Варить мясо" },
+                { "english": "Grill pasta", "russian": "Гриль пасту" },
+                { "english": "Chop onions", "russian": "Нарезать лук" }
               ]
             },
             {
@@ -617,9 +618,9 @@
                 { "english": "Bake with cheese topping", "russian": "Запекать с сырной корочкой" }
               ],
               "distractors": [
-                { "english": "Infuse with truffle oil", "russian": "Настоять на трюфельном масле" },
-                { "english": "Emulsify yolks and acid", "russian": "Эмульгировать желтки с кислотой" },
-                { "english": "Spherify citrus purée", "russian": "Сферировать цитрусовое пюре" }
+                { "english": "Grill lobster", "russian": "Жарить лобстера" },
+                { "english": "Make hollandaise sauce", "russian": "Приготовить соус голландез" },
+                { "english": "Stuff lobster shell", "russian": "Начинить раковину лобстера" }
               ]
             },
             {
@@ -632,9 +633,9 @@
                 { "english": "Bake until risen", "russian": "Запекать до подъёма" }
               ],
               "distractors": [
-                { "english": "Clarify butter for tempering", "russian": "Прояснить масло для темперирования" },
-                { "english": "Ferment with lactobacillus", "russian": "Ферментировать с лактобактериями" },
-                { "english": "Laminate enriched dough", "russian": "Ламинировать дрожжевое тесто" }
+                { "english": "Whisk egg yolks", "russian": "Взбить яичные желтки" },
+                { "english": "Prepare custard base", "russian": "Приготовить заварной крем" },
+                { "english": "Fold in whipped cream", "russian": "Вмешать взбитые сливки" }
               ]
             },
             {
@@ -647,315 +648,345 @@
                 { "english": "Slice and serve with pancakes", "russian": "Нарезать и подать с блинчиками" }
               ],
               "distractors": [
-                { "english": "Caramelize under salamander", "russian": "Карамелизировать под саламандрой" },
-                { "english": "Sous-vide at precise temp", "russian": "Готовить су-вид при точной температуре" },
-                { "english": "Gelify fruit reduction", "russian": "Гелеобразовать фруктовую редукцию" }
+                { "english": "Score skin", "russian": "Нарезать кожу" },
+                { "english": "Braise duck", "russian": "Тушить утку" },
+                { "english": "Glaze with hoisin sauce", "russian": "Смазывать хойсином" }
               ]
             }
       ],
       "5": [
           {
-            "name": "Ratatouille",
-            "instructions": "Slice vegetables, prepare tomato sauce, layer and bake, serve with herbs.",
+            "name": "Chicken Parmesan",
+            "instructions": "Bread chicken, fry until golden, top with marinara sauce and cheese, bake until bubbly, serve with pasta.",
             "ingredients": [
-              { "english": "Slice vegetables", "russian": "Нарезать овощи" },
-              { "english": "Prepare tomato sauce", "russian": "Приготовить томатный соус" },
-              { "english": "Layer and bake", "russian": "Выложить слоями и запекать" },
-              { "english": "Serve with herbs", "russian": "Подавать с зеленью" }
+              { "english": "Bread chicken", "russian": "Обвалять курицу в панировке" },
+              { "english": "Fry until golden", "russian": "Жарить до золотистой корочки" },
+              { "english": "Top with marinara sauce", "russian": "Добавить маринара соус" },
+              { "english": "Top with cheese", "russian": "Добавить сыр" },
+              { "english": "Serve with pasta", "russian": "Подавать с пастой" }
             ],
             "distractors": [
-              { "english": "Vacuum-seal for aging", "russian": "Вакуумировать для выдержки" },
-              { "english": "Dehydrate for preservation", "russian": "Обезвоживать для хранения" },
-              { "english": "Flash-freeze with nitrogen", "russian": "Мгновенно заморозить с азотом" }
+              { "english": "Grill chicken", "russian": "Гриль курицу" },
+              { "english": "Boil pasta", "russian": "Варить пасту" },
+              { "english": "Stuff chicken", "russian": "Начинить курицу" }
             ]
           },
           {
-            "name": "Coq au Vin",
-            "instructions": "Marinate chicken in wine, brown with vegetables, simmer slowly, serve with sauce.",
+            "name": "Beef Stir-Fry",
+            "instructions": "Slice beef, cook vegetables, stir-fry beef and vegetables together, add sauce, serve with rice.",
             "ingredients": [
-              { "english": "Marinate chicken in wine", "russian": "Мариновать курицу в вине" },
-              { "english": "Brown with vegetables", "russian": "Обжарить с овощами" },
-              { "english": "Simmer slowly", "russian": "Тушить на медленном огне" },
-              { "english": "Serve with sauce", "russian": "Подавать с соусом" }
+              { "english": "Slice beef", "russian": "Нарезать говядину" },
+              { "english": "Cook vegetables", "russian": "Приготовить овощи" },
+              { "english": "Stir-fry beef and vegetables together", "russian": "Обжарить говядину и овощи вместе" },
+              { "english": "Add sauce", "russian": "Добавить соус" },
+              { "english": "Serve with rice", "russian": "Подавать с рисом" }
             ],
             "distractors": [
-              { "english": "Cryo-shatter for texture", "russian": "Крио-дробление для текстуры" },
-              { "english": "Carbonate with CO2 siphon", "russian": "Насыщать углекислым газом" },
-              { "english": "Reverse-sear over flame", "russian": "Обжаривать обратным методом" }
+              { "english": "Grill beef", "russian": "Жарить говядину на гриле" },
+              { "english": "Blanch vegetables", "russian": "Бланшировать овощи" },
+              { "english": "Boil rice", "russian": "Варить рис" }
             ]
           },
           {
-            "name": "Boeuf Wellington",
-            "instructions": "Sear beef, prepare mushroom duxelles, wrap in pastry, bake until golden.",
+            "name": "Fish Tacos",
+            "instructions": "Cook fish, prepare toppings, warm tortillas, assemble tacos, serve with lime wedges.",
             "ingredients": [
-              { "english": "Sear beef", "russian": "Обжарить говядину" },
-              { "english": "Prepare mushroom duxelles", "russian": "Приготовить грибной дюксель" },
-              { "english": "Wrap in pastry", "russian": "Завернуть в тесто" },
-              { "english": "Bake until golden", "russian": "Запекать до золотистого цвета" }
+              { "english": "Cook fish", "russian": "Приготовить рыбу" },
+              { "english": "Prepare toppings", "russian": "Подготовить начинки" },
+              { "english": "Warm tortillas", "russian": "Подогреть тортильи" },
+              { "english": "Assemble tacos", "russian": "Собрать такос" },
+              { "english": "Serve with lime wedges", "russian": "Подавать с дольками лайма" }
             ],
             "distractors": [
-              { "english": "Render marrow for infusion", "russian": "Растопить костный мозг для инфузии" },
-              { "english": "Clarify stock through raft", "russian": "Прояснить бульон с помощью рафта" },
-              { "english": "Hydrocolloid-stabilize foam", "russian": "Стабилизировать пену гидроколлоидами" }
+              { "english": "Grill fish", "russian": "Гриль рыбу" },
+              { "english": "Fry tortillas", "russian": "Жарить тортильи" },
+              { "english": "Make guacamole", "russian": "Приготовить гуакамоле" }
             ]
           },
           {
-            "name": "Osso Buco",
-            "instructions": "Sear veal shanks, add aromatics and wine, braise until tender, serve with gremolata.",
+            "name": "Caesar Salad",
+            "instructions": "Chop lettuce, prepare dressing, toss with croutons and dressing, top with cheese, serve.",
             "ingredients": [
-              { "english": "Sear veal shanks", "russian": "Обжарить голяшки телятины" },
-              { "english": "Add aromatics and wine", "russian": "Добавить ароматные травы и вино" },
-              { "english": "Braise until tender", "russian": "Тушить до мягкости" },
-              { "english": "Serve with gremolata", "russian": "Подавать с гремолатой" }
+              { "english": "Chop lettuce", "russian": "Нашинковать салат" },
+              { "english": "Prepare dressing", "russian": "Приготовить соус" },
+              { "english": "Toss with croutons and dressing", "russian": "Перемешать с гренками и соусом" },
+              { "english": "Top with cheese", "russian": "Посыпать сыром" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Flash-pickle root vegetables", "russian": "Мгновенно мариновать корнеплоды" },
-              { "english": "Cold-smoke over hickory", "russian": "Холодное копчение на гикори" },
-              { "english": "Espuma with lecithin foam", "russian": "Готовить эспуму с лецитином" }
+              { "english": "Grill chicken", "russian": "Гриль курицу" },
+              { "english": "Make soup", "russian": "Приготовить суп" },
+              { "english": "Fry bacon", "russian": "Жарить бекон" }
             ]
           },
           {
-            "name": "Croquembouche",
-            "instructions": "Prepare choux pastry, fill with cream, assemble in tower, drizzle with caramel.",
+            "name": "Spaghetti Aglio e Olio",
+            "instructions": "Cook spaghetti, heat oil and garlic, toss with pasta, add chili flakes and parsley, serve.",
             "ingredients": [
-              { "english": "Prepare choux pastry", "russian": "Приготовить заварное тесто" },
-              { "english": "Fill with cream", "russian": "Наполнить кремом" },
-              { "english": "Assemble in tower", "russian": "Собрать в башню" },
-              { "english": "Drizzle with caramel", "russian": "Полить карамелью" }
+              { "english": "Cook spaghetti", "russian": "Варить спагетти" },
+              { "english": "Heat oil and garlic", "russian": "Нагреть масло с чесноком" },
+              { "english": "Toss with pasta", "russian": "Перемешать с пастой" },
+              { "english": "Add chili flakes and parsley", "russian": "Добавить хлопья чили и петрушку" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Whip into a sabayon", "russian": "Взбить в сабайон" },
-              { "english": "Stabilize with agar-agar", "russian": "Стабилизировать агар-агаром" },
-              { "english": "Laminate for flakiness", "russian": "Ламинировать для слоистости" }
+              { "english": "Boil garlic", "russian": "Варить чеснок" },
+              { "english": "Grill spaghetti", "russian": "Гриль спагетти" },
+              { "english": "Make marinara sauce", "russian": "Приготовить соус маринара" }
             ]
           },
             {
-              "name": "Beef Bourguignon",
-              "instructions": "Sear beef, sauté aromatics, deglaze with wine, slow-cook until tender, serve with parsley.",
+              "name": "Chicken Fajitas",
+              "instructions": "Marinate chicken, cook vegetables, cook chicken, warm tortillas, assemble fajitas.",
               "ingredients": [
-                { "english": "Sear beef", "russian": "Обжарить говядину" },
-                { "english": "Sauté aromatics", "russian": "Обжарить ароматные травы" },
-                { "english": "Deglaze with wine", "russian": "Деглазировать вином" },
-                { "english": "Slow-cook until tender", "russian": "Тушить на медленном огне до мягкости" }
+                { "english": "Marinate chicken", "russian": "Мариновать курицу" },
+                { "english": "Cook vegetables", "russian": "Приготовить овощи" },
+                { "english": "Cook chicken", "russian": "Приготовить курицу" },
+                { "english": "Warm tortillas", "russian": "Подогреть тортильи" },
+                { "english": "Assemble fajitas", "russian": "Собрать фахитас" }
               ],
               "distractors": [
-                { "english": "Dry-age for umami enhancement", "russian": "Выдерживать для усиления умами" },
-                { "english": "Emulsify into a stable reduction", "russian": "Эмульгировать в стабильную редукцию" },
-                { "english": "Ferment in brine for preservation", "russian": "Ферментировать в рассоле для хранения" }
+                { "english": "Grill chicken", "russian": "Гриль курицу" },
+                { "english": "Fry beans", "russian": "Жарить фасоль" },
+                { "english": "Steam tortillas", "russian": "Парить тортильи" }
               ]
             },
             {
-              "name": "Duck à l’Orange",
-              "instructions": "Score duck skin, render fat, prepare orange glaze, roast until crispy, serve with sauce.",
+              "name": "Mushroom Risotto",
+              "instructions": "Sauté mushrooms, cook rice, slowly add broth, stir frequently, finish with parmesan.",
               "ingredients": [
-                { "english": "Score duck skin", "russian": "Нарезать кожу утки" },
-                { "english": "Render fat", "russian": "Растопить жир" },
-                { "english": "Prepare orange glaze", "russian": "Приготовить апельсиновую глазурь" },
-                { "english": "Roast until crispy", "russian": "Запекать до хрустящей корочки" }
+                { "english": "Sauté mushrooms", "russian": "Обжарить грибы" },
+                { "english": "Cook rice", "russian": "Приготовить рис" },
+                { "english": "Slowly add broth", "russian": "Медленно добавить бульон" },
+                { "english": "Stir frequently", "russian": "Часто помешивать" },
+                { "english": "Finish with parmesan", "russian": "Закончить с пармезаном" }
               ],
               "distractors": [
-                { "english": "Sous-vide with controlled pressure", "russian": "Готовить су-вид под давлением" },
-                { "english": "Spherify citrus components", "russian": "Сферифицировать цитрусовые компоненты" },
-                { "english": "Coagulate proteins through curdling", "russian": "Свертывать белки путем створаживания" }
+                { "english": "Grill mushrooms", "russian": "Гриль грибы" },
+                { "english": "Boil rice", "russian": "Варить рис" },
+                { "english": "Fry onions", "russian": "Жарить лук" }
               ]
             },
             {
-              "name": "Paella Valenciana",
-              "instructions": "Sauté seafood and meat, add rice and broth, simmer slowly, let rest before serving.",
+              "name": "Lemon Chicken",
+              "instructions": "Marinate chicken, cook chicken, prepare lemon sauce, pour sauce over chicken, serve.",
               "ingredients": [
-                { "english": "Sauté seafood and meat", "russian": "Обжарить морепродукты и мясо" },
-                { "english": "Add rice and broth", "russian": "Добавить рис и бульон" },
-                { "english": "Simmer slowly", "russian": "Тушить на медленном огне" },
-                { "english": "Let rest before serving", "russian": "Дать настояться перед подачей" }
+                { "english": "Marinate chicken", "russian": "Мариновать курицу" },
+                { "english": "Cook chicken", "russian": "Приготовить курицу" },
+                { "english": "Prepare lemon sauce", "russian": "Приготовить лимонный соус" },
+                { "english": "Pour sauce over chicken", "russian": "Полить соусом курицу" },
+                { "english": "Serve", "russian": "Подавать" }
               ],
               "distractors": [
-                { "english": "Extract flavors via rotary evaporation", "russian": "Извлекать вкусы с помощью ротационного испарения" },
-                { "english": "Distill seafood essence under vacuum", "russian": "Дистиллировать эссенцию морепродуктов под вакуумом" },
-                { "english": "Encapsulate saffron in hydrogel spheres", "russian": "Инкапсулировать шафран в гидрогелевые сферы" }
+                { "english": "Grill chicken", "russian": "Гриль курицу" },
+                { "english": "Make lemon zest", "russian": "Приготовить лимонную цедру" },
+                { "english": "Sauté chicken", "russian": "Обжарить курицу" }
               ]
             },
             {
-              "name": "Tarte Tatin",
-              "instructions": "Caramelize apples, prepare pastry, arrange and bake, flip before serving.",
+              "name": "Vegetable Stir-Fry",
+              "instructions": "Chop vegetables, heat oil, stir-fry vegetables, add soy sauce, serve with rice.",
               "ingredients": [
-                { "english": "Caramelize apples", "russian": "Карамелизировать яблоки" },
-                { "english": "Prepare pastry", "russian": "Приготовить тесто" },
-                { "english": "Arrange and bake", "russian": "Разложить и запекать" },
-                { "english": "Flip before serving", "russian": "Перевернуть перед подачей" }
+                { "english": "Chop vegetables", "russian": "Нарезать овощи" },
+                { "english": "Heat oil", "russian": "Нагреть масло" },
+                { "english": "Stir-fry vegetables", "russian": "Обжарить овощи" },
+                { "english": "Add soy sauce", "russian": "Добавить соевый соус" },
+                { "english": "Serve with rice", "russian": "Подавать с рисом" }
               ],
               "distractors": [
-                { "english": "Sonic-infuse vanilla essence", "russian": "Звуковая инфузия ванильной эссенции" },
-                { "english": "Churn via cryogenic method", "russian": "Взбивать криогенным методом" },
-                { "english": "Foam-stabilize with methylcellulose", "russian": "Стабилизировать пену метилцеллюлозой" }
+                { "english": "Grill vegetables", "russian": "Гриль овощи" },
+                { "english": "Boil rice", "russian": "Варить рис" },
+                { "english": "Steam vegetables", "russian": "Парить овощи" }
               ]
             },
             {
-              "name": "Mole Poblano",
-              "instructions": "Toast spices, blend with chocolate and broth, simmer until thick, serve over meat.",
+              "name": "Beef Tacos",
+              "instructions": "Cook beef, prepare toppings, warm tortillas, assemble tacos, serve with salsa.",
               "ingredients": [
-                { "english": "Toast spices", "russian": "Обжарить специи" },
-                { "english": "Blend with chocolate and broth", "russian": "Смешать с шоколадом и бульоном" },
-                { "english": "Simmer until thick", "russian": "Тушить до загустения" },
-                { "english": "Serve over meat", "russian": "Подавать с мясом" }
+                { "english": "Cook beef", "russian": "Приготовить говядину" },
+                { "english": "Prepare toppings", "russian": "Подготовить начинки" },
+                { "english": "Warm tortillas", "russian": "Подогреть тортильи" },
+                { "english": "Assemble tacos", "russian": "Собрать тако" },
+                { "english": "Serve with salsa", "russian": "Подавать с сальсой" }
               ],
               "distractors": [
-                { "english": "Freeze-dry to intensify flavors", "russian": "Лиофилизировать для усиления вкуса" },
-                { "english": "Carbonate using nitrous oxide", "russian": "Карбонизировать с помощью закиси азота" },
-                { "english": "Destructure emulsions for clarity", "russian": "Разрушить эмульсии для прозрачности" }
+                { "english": "Grill beef", "russian": "Гриль говядину" },
+                { "english": "Make guacamole", "russian": "Приготовить гуакамоле" },
+                { "english": "Fry tortillas", "russian": "Жарить тортильи" }
               ]
             }                
       ],
       "6": [
         [
           {
-            "name": "Peking Duck",
-            "instructions": "Air-dry duck, apply maltose glaze, roast until crisp, carve and serve with pancakes.",
+            "name": "Chicken Alfredo",
+            "instructions": "Cook chicken, prepare pasta, make Alfredo sauce, combine pasta and sauce, slice chicken, serve.",
             "ingredients": [
-              { "english": "Air-dry duck", "russian": "Подсушить утку" },
-              { "english": "Apply maltose glaze", "russian": "Нанести мальтозную глазурь" },
-              { "english": "Roast until crisp", "russian": "Запекать до хрустящей корочки" },
-              { "english": "Carve and serve with pancakes", "russian": "Разделать и подавать с блинчиками" }
+              { "english": "Cook chicken", "russian": "Приготовить курицу" },
+              { "english": "Prepare pasta", "russian": "Приготовить пасту" },
+              { "english": "Make Alfredo sauce", "russian": "Приготовить соус Альфредо" },
+              { "english": "Combine pasta and sauce", "russian": "Смешать пасту с соусом" },
+              { "english": "Slice chicken", "russian": "Нарезать курицу" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Encapsulate umami compounds via microfluidics", "russian": "Инкапсулировать умами-соединения с помощью микрофлюидики" },
-              { "english": "Coagulate proteins using transglutaminase", "russian": "Свертывать белки с помощью трансглутаминазы" },
-              { "english": "Vacuum-infuse flavors through pressure differentials", "russian": "Вакуумно инфузировать вкусы через перепад давления" }
+              { "english": "Grill chicken", "russian": "Гриль курицу" },
+              { "english": "Boil pasta", "russian": "Варить пасту" },
+              { "english": "Make tomato sauce", "russian": "Приготовить томатный соус" }
             ]
           },
           {
-            "name": "Lobster Thermidor",
-            "instructions": "Poach lobster, remove meat, prepare mustard-cream sauce, broil with cheese topping.",
+            "name": "Shrimp Scampi",
+            "instructions": "Cook shrimp, prepare pasta, make garlic butter sauce, combine pasta and sauce, toss shrimp in sauce, serve.",
             "ingredients": [
-              { "english": "Poach lobster", "russian": "Отварить лобстера" },
-              { "english": "Remove meat", "russian": "Извлечь мясо" },
-              { "english": "Prepare mustard-cream sauce", "russian": "Приготовить горчично-сливочный соус" },
-              { "english": "Broil with cheese topping", "russian": "Запекать с сырной корочкой" }
+              { "english": "Cook shrimp", "russian": "Приготовить креветки" },
+              { "english": "Prepare pasta", "russian": "Приготовить пасту" },
+              { "english": "Make garlic butter sauce", "russian": "Приготовить чесночный масляный соус" },
+              { "english": "Combine pasta and sauce", "russian": "Смешать пасту с соусом" },
+              { "english": "Toss shrimp in sauce", "russian": "Перемешать креветки с соусом" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Sonicate to enhance emulsification", "russian": "Сонифицировать для улучшения эмульсии" },
-              { "english": "Create lamellar gel-phase dispersion", "russian": "Создать ламеллярную дисперсию в гелеобразной фазе" },
-              { "english": "Induce Maillard reaction through controlled enzymatic browning", "russian": "Вызывать реакцию Майяра через контролируемое ферментативное подрумянивание" }
+              { "english": "Grill shrimp", "russian": "Гриль креветки" },
+              { "english": "Boil shrimp", "russian": "Варить креветки" },
+              { "english": "Make pesto", "russian": "Приготовить песто" }
             ]
           },
           {
-            "name": "Beef Consommé",
-            "instructions": "Prepare stock, clarify using egg whites, filter through cheesecloth, serve hot.",
+            "name": "Eggplant Parmesan",
+            "instructions": "Bread eggplant, fry until golden, prepare marinara sauce, layer eggplant and sauce, top with cheese, bake until bubbly.",
             "ingredients": [
-              { "english": "Prepare stock", "russian": "Приготовить бульон" },
-              { "english": "Clarify using egg whites", "russian": "Прояснить с помощью яичных белков" },
-              { "english": "Filter through cheesecloth", "russian": "Процедить через марлю" },
-              { "english": "Serve hot", "russian": "Подавать горячим" }
+              { "english": "Bread eggplant", "russian": "Обвалять баклажаны в панировке" },
+              { "english": "Fry until golden", "russian": "Жарить до золотистой корочки" },
+              { "english": "Prepare marinara sauce", "russian": "Приготовить соус маринара" },
+              { "english": "Layer eggplant and sauce", "russian": "Чередовать баклажаны и соус" },
+              { "english": "Top with cheese", "russian": "Посыпать сыром" },
+              { "english": "Bake until bubbly", "russian": "Запекать до пузырьков" }
             ],
             "distractors": [
-              { "english": "Fractionate proteins via ultrafiltration", "russian": "Разделить белки с помощью ультрафильтрации" },
-              { "english": "Reverse-saponify lipids to isolate aromatic compounds", "russian": "Обратное омыление липидов для выделения ароматических соединений" },
-              { "english": "Destructure polysaccharides using controlled enzymatic hydrolysis", "russian": "Разрушение полисахаридов с помощью контролируемого ферментативного гидролиза" }
+              { "english": "Grill eggplant", "russian": "Гриль баклажаны" },
+              { "english": "Boil eggplant", "russian": "Варить баклажаны" },
+              { "english": "Make béchamel sauce", "russian": "Приготовить соус бешамель" }
             ]
           },
           {
-            "name": "Sourdough Bread",
-            "instructions": "Cultivate starter, mix and ferment dough, shape and proof, bake with steam.",
+            "name": "Pasta Primavera",
+            "instructions": "Cook pasta, sauté vegetables, prepare garlic sauce, combine pasta and vegetables, toss with sauce, serve.",
             "ingredients": [
-              { "english": "Cultivate starter", "russian": "Выращивать закваску" },
-              { "english": "Mix and ferment dough", "russian": "Замешивать и ферментировать тесто" },
-              { "english": "Shape and proof", "russian": "Формировать и расстаивать" },
-              { "english": "Bake with steam", "russian": "Выпекать с паром" }
+              { "english": "Cook pasta", "russian": "Варить пасту" },
+              { "english": "Sauté vegetables", "russian": "Обжарить овощи" },
+              { "english": "Prepare garlic sauce", "russian": "Приготовить чесночный соус" },
+              { "english": "Combine pasta and vegetables", "russian": "Смешать пасту с овощами" },
+              { "english": "Toss with sauce", "russian": "Перемешать с соусом" },
+              { "english": "Serve", "russian": "Подавать" }
             ],
             "distractors": [
-              { "english": "Induce retrogradation of amylopectin chains", "russian": "Вызывать ретроградацию амилопектиновых цепей" },
-              { "english": "Control lactobacillus metabolic pathways for flavor modulation", "russian": "Контролировать метаболические пути лактобацилл для изменения вкуса" },
-              { "english": "Manipulate gas cell expansion via surfactant molecular alignment", "russian": "Манипулировать расширением газовых ячеек путем выравнивания молекул ПАВ" }
+              { "english": "Grill vegetables", "russian": "Гриль овощи" },
+              { "english": "Boil vegetables", "russian": "Варить овощи" },
+              { "english": "Make pesto", "russian": "Приготовить песто" }
             ]
           },
           {
-            "name": "Black Truffle Risotto",
-            "instructions": "Sauté onions in butter, add rice and broth gradually, fold in truffle shavings, serve with parmesan.",
+            "name": "Beef Stroganoff",
+            "instructions": "Cook beef, sauté onions, make sauce, combine beef and sauce, serve with noodles, garnish with parsley.",
             "ingredients": [
-              { "english": "Sauté onions in butter", "russian": "Обжарить лук в масле" },
-              { "english": "Add rice and broth gradually", "russian": "Добавлять рис и бульон постепенно" },
-              { "english": "Fold in truffle shavings", "russian": "Добавить стружку трюфеля" },
-              { "english": "Serve with parmesan", "russian": "Подавать с пармезаном" }
+              { "english": "Cook beef", "russian": "Приготовить говядину" },
+              { "english": "Sauté onions", "russian": "Обжарить лук" },
+              { "english": "Make sauce", "russian": "Приготовить соус" },
+              { "english": "Combine beef and sauce", "russian": "Смешать говядину с соусом" },
+              { "english": "Serve with noodles", "russian": "Подавать с лапшой" },
+              { "english": "Garnish with parsley", "russian": "Украшать петрушкой" }
             ],
             "distractors": [
-              { "english": "Isolate truffle aroma via headspace solid-phase microextraction", "russian": "Извлекать аромат трюфеля методом микросорбционной экстракции из газовой фазы" },
-              { "english": "Enhance umami perception through glutamate receptor agonists", "russian": "Усилить восприятие умами через агонисты рецепторов глутамата" },
-              { "english": "Regulate starch gelatinization through controlled shear stress", "russian": "Регулировать желатинизацию крахмала путем контролируемого сдвигового напряжения" }
+              { "english": "Grill beef", "russian": "Гриль говядину" },
+              { "english": "Boil noodles", "russian": "Варить лапшу" },
+              { "english": "Fry potatoes", "russian": "Жарить картошку" }
             ]
           }
         ],
           {
-            "name": "Duck à l'Orange",
-            "instructions": "Score duck skin, render fat, deglaze with orange liqueur, reduce sauce and serve.",
+            "name": "Chicken Parmesan",
+            "instructions": "Bread chicken, fry until golden, prepare marinara sauce, layer chicken and sauce, top with cheese, bake until bubbly",
             "ingredients": [
-              { "english": "Score duck skin", "russian": "Нарезать кожу утки" },
-              { "english": "Render fat", "russian": "Растопить жир" },
-              { "english": "Deglaze with orange liqueur", "russian": "Деглазировать апельсиновым ликером" },
-              { "english": "Reduce sauce and serve", "russian": "Уварить соус и подать" }
+              { "english": "Bread chicken", "russian": "Обвалять курицу в панировке" },
+              { "english": "Fry until golden", "russian": "Жарить до золотистой корочки" },
+              { "english": "Prepare marinara sauce", "russian": "Приготовить соус маринара" },
+              { "english": "Layer chicken and sauce", "russian": "Чередовать курицу и соус" },
+              { "english": "Top with cheese", "russian": "Посыпать сыром" },
+              { "english": "Bake until bubbly", "russian": "Запекать до пузырьков" }
             ],
             "distractors": [
-              { "english": "Cryogenically shatter connective tissue for enhanced tenderness", "russian": "Криогенно разрушить соединительные ткани для повышения мягкости" },
-              { "english": "Use vacuum-induced phase inversion to separate lipid fractions", "russian": "Применить вакуумную фазовую инверсию для разделения липидных фракций" },
-              { "english": "Modulate polyphenol oxidation to stabilize citrus aroma", "russian": "Модулировать окисление полифенолов для стабилизации аромата цитрусовых" }
+              { "english": "Grill chicken", "russian": "Гриль курицу" },
+              { "english": "Boil chicken", "russian": "Варить курицу" },
+              { "english": "Make béchamel sauce", "russian": "Приготовить соус бешамель" }
             ]
           },
           {
-            "name": "Miso-Glazed Black Cod",
-            "instructions": "Marinate cod in miso, sear until caramelized, finish in oven, serve with pickled ginger.",
+            "name": "Fish Tacos",
+            "instructions": "Prepare fish, cook fish, warm tortillas, prepare toppings, assemble tacos, serve with lime wedges.",
             "ingredients": [
-              { "english": "Marinate cod in miso", "russian": "Мариновать треску в мисо" },
-              { "english": "Sear until caramelized", "russian": "Обжарить до карамелизации" },
-              { "english": "Finish in oven", "russian": "Довести до готовности в духовке" },
-              { "english": "Serve with pickled ginger", "russian": "Подавать с маринованным имбирем" }
+              { "english": "Prepare fish", "russian": "Подготовить рыбу" },
+              { "english": "Cook fish", "russian": "Приготовить рыбу" },
+              { "english": "Warm tortillas", "russian": "Подогреть тортильи" },
+              { "english": "Prepare toppings", "russian": "Подготовить начинки" },
+              { "english": "Assemble tacos", "russian": "Собрать тако" },
+              { "english": "Serve with lime wedges", "russian": "Подавать с дольками лайма" }
             ],
             "distractors": [
-              { "english": "Employ enzymatic proteolysis to hydrolyze umami peptides", "russian": "Применить ферментативный протеолиз для гидролиза умами-пептидов" },
-              { "english": "Isolate glutamate via high-performance liquid chromatography", "russian": "Выделить глутамат с помощью ВЭЖХ" },
-              { "english": "Encapsulate miso volatiles using lipid-based nanocarriers", "russian": "Инкапсулировать летучие вещества мисо в липидные нанокапсулы" }
+              { "english": "Grill fish", "russian": "Гриль рыбу" },
+              { "english": "Fry fish", "russian": "Жарить рыбу" },
+              { "english": "Make guacamole", "russian": "Приготовить гуакамоле" }
             ]
           },
           {
-            "name": "Foie Gras Torchon",
-            "instructions": "Cure foie gras with salt, roll in cheesecloth, poach gently, chill and slice.",
+            "name": "Pork Schnitzel",
+            "instructions": "Bread pork, fry until golden, prepare lemon sauce, pour sauce over schnitzel, garnish with parsley, serve with potatoes.",
             "ingredients": [
-              { "english": "Cure foie gras with salt", "russian": "Засолить фуа-гра" },
-              { "english": "Roll in cheesecloth", "russian": "Свернуть в марлю" },
-              { "english": "Poach gently", "russian": "Томить на слабом огне" },
-              { "english": "Chill and slice", "russian": "Охладить и нарезать" }
+              { "english": "Bread pork", "russian": "Обвалять свинину в панировке" },
+              { "english": "Fry until golden", "russian": "Жарить до золотистой корочки" },
+              { "english": "Prepare lemon sauce", "russian": "Приготовить лимонный соус" },
+              { "english": "Pour sauce over schnitzel", "russian": "Полить соусом шницель" },
+              { "english": "Garnish with parsley", "russian": "Украшать петрушкой" },
+              { "english": "Serve with potatoes", "russian": "Подавать с картофелем" }
             ],
             "distractors": [
-              { "english": "Stabilize lipid oxidation through chelation of transition metals", "russian": "Стабилизировать окисление липидов через хелатирование переходных металлов" },
-              { "english": "Utilize supercritical CO2 extraction for flavor purification", "russian": "Применить сверхкритическую CO2-экстракцию для очистки вкуса" },
-              { "english": "Adjust microviscosity of emulsified fat droplets", "russian": "Регулировать микровязкость эмульгированных жировых капель" }
+              { "english": "Grill pork", "russian": "Гриль свинину" },
+              { "english": "Boil potatoes", "russian": "Варить картофель" },
+              { "english": "Make apple sauce", "russian": "Приготовить яблочный соус" }
             ]
           },
           {
-            "name": "Squid Ink Risotto",
-            "instructions": "Sauté garlic in olive oil, add rice and squid ink, deglaze with white wine, finish with butter and parmesan.",
+            "name": "Chicken Fajitas",
+            "instructions": "Slice chicken, sauté chicken, prepare vegetables, cook vegetables, assemble fajitas, serve with salsa.",
             "ingredients": [
-              { "english": "Sauté garlic in olive oil", "russian": "Обжарить чеснок в оливковом масле" },
-              { "english": "Add rice and squid ink", "russian": "Добавить рис и чернильный соус" },
-              { "english": "Deglaze with white wine", "russian": "Деглазировать белым вином" },
-              { "english": "Finish with butter and parmesan", "russian": "Завершить сливочным маслом и пармезаном" }
+              { "english": "Slice chicken", "russian": "Нарезать курицу" },
+              { "english": "Sauté chicken", "russian": "Обжарить курицу" },
+              { "english": "Prepare vegetables", "russian": "Подготовить овощи" },
+              { "english": "Cook vegetables", "russian": "Приготовить овощи" },
+              { "english": "Assemble fajitas", "russian": "Собрать фахитас" },
+              { "english": "Serve with salsa", "russian": "Подавать с сальсой" }
             ],
             "distractors": [
-              { "english": "Optimize chitinase activity to modify squid ink texture", "russian": "Оптимизировать активность хитиназы для изменения текстуры чернил" },
-              { "english": "Control starch retrogradation through hydrocolloid interaction", "russian": "Контролировать ретроградацию крахмала через взаимодействие с гидроколлоидами" },
-              { "english": "Enhance protein-lipid interactions for improved mouthfeel", "russian": "Усилить взаимодействие белков и липидов для улучшения текстуры" }
+              { "english": "Grill chicken", "russian": "Гриль курицу" },
+              { "english": "Boil vegetables", "russian": "Варить овощи" },
+              { "english": "Make guacamole", "russian": "Приготовить гуакамоле" }
             ]
           },
           {
-            "name": "Molecular Mango Caviar",
-            "instructions": "Blend mango puree, mix with sodium alginate, drip into calcium bath, rinse and serve.",
+            "name": "Vegetable Stir Fry",
+            "instructions": "Prepare vegetables, sauté vegetables, make stir fry sauce, add sauce to vegetables, cook until tender, serve with rice.",
             "ingredients": [
-              { "english": "Blend mango puree", "russian": "Смешать манговое пюре" },
-              { "english": "Mix with sodium alginate", "russian": "Смешать с альгинатом натрия" },
-              { "english": "Drip into calcium bath", "russian": "Капать в кальциевую ванну" },
-              { "english": "Rinse and serve", "russian": "Промыть и подать" }
+              { "english": "Prepare vegetables", "russian": "Подготовить овощи" },
+              { "english": "Sauté vegetables", "russian": "Обжарить овощи" },
+              { "english": "Make stir fry sauce", "russian": "Приготовить соус для жаркого" },
+              { "english": "Add sauce to vegetables", "russian": "Добавить соус к овощам" },
+              { "english": "Cook until tender", "russian": "Готовить до мягкости" },
+              { "english": "Serve with rice", "russian": "Подавать с рисом" }
             ],
             "distractors": [
-              { "english": "Exploit interfacial tension to modulate microgel structure", "russian": "Использовать межфазное натяжение для изменения структуры микрогеля" },
-              { "english": "Adjust ionic cross-linking kinetics to control gelation rate", "russian": "Регулировать кинетику ионного сшивания для контроля скорости гелеобразования" },
-              { "english": "Induce electrosprayed droplet formation for uniform encapsulation", "russian": "Вызывать электроспрейное образование капель для равномерной инкапсуляции" }
+              { "english": "Grill vegetables", "russian": "Гриль овощи" },
+              { "english": "Boil rice", "russian": "Варить рис" },
+              { "english": "Make tomato sauce", "russian": "Приготовить томатный соус" }
             ]
           }        
       ]
