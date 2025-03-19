@@ -2911,7 +2911,7 @@
     "instrumental": [
             {"question": "How to say 'He is playing with a ball'? Он играет с (мяч)", "answer": "мячом"},
             {"question": "How to say 'She is working with a laptop'? Она работает с (ноутбук)", "answer": "ноутбуком"},
-            {"question": "How to say 'They are traveling with a car'? Они путешествуют с (машина)", "answer": "машиной"}
+            {"question": "How to say 'They are traveling with a car'? Они путешествуют с (машина)", "answer": "машиной"},
             {"question": "How to say 'I am studying with a book'? Я учусь с (книга)", "answer": "книгой"},
             {"question": "How to say 'We are eating with a spoon'? Мы едим с (ложка)", "answer": "ложкой"},
             {"question": "How to say 'She is painting with a brush'? Она рисует с (кисть)", "answer": "кистью"},
@@ -2953,7 +2953,7 @@
             {"question": "How to say 'They are arriving with a bus'? Они приезжают на (автобус)", "answer": "автобусе"},
             {"question": "How to say 'He is cutting with scissors'? Он режет с (ножницы)", "answer": "ножницами"},
             {"question": "How to say 'She is eating with a plate'? Она ест с (тарелка)", "answer": "тарелкой"},
-            {"question": "How to say 'We are enjoying with a book'? Мы наслаждаемся с (книга)", "answer": "книгой"}            
+            {"question": "How to say 'We are enjoying with a book'? Мы наслаждаемся с (книга)", "answer": "книгой"},          
             {"question": "How to say 'They are playing with cards'? Они играют с (карта)", "answer": "картами"},
             {"question": "How to say 'I am studying with a notebook'? Я учусь с (тетрадь)", "answer": "тетрадью"},
             {"question": "How to say 'He is riding with a bike'? Он едет на (велосипед)", "answer": "велосипеде"},
